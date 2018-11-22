@@ -1,0 +1,11 @@
+# Site settings
+title: Light of Atan Campaign Setting
+email:
+author:
+description:
+url:
+
+category-list: [ Nations, Races, Locations, Organizations ]
+
+# Build settings
+permalink: :title/

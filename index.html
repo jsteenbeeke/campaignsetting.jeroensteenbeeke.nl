@@ -1,0 +1,38 @@
+---
+layout: index
+title: Light of Atan Campaign setting
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <h1 class="text-primary">D&D Campaign Setting: Light of Atan</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium corporis ipsam cumque rerum quas quia neque, dolor vitae laboriosam.</p>
+      <i class="fas fa-thumbs-up fa-2x"></i>
+    </div>
+  </div>
+  <br />
+  <div class="row">
+  {% for cat in site.category-list %}
+
+  <div class="col-md-4">
+  
+	  <h2>{{ cat }}</h2>
+
+<ul>
+  {% for page in site.pages %}
+    {% if page.indexed == true %}
+      {% for pc in page.categories %}
+        {% if pc == cat %}
+          <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+        {% endif %}   <!-- cat-match-p -->
+      {% endfor %}  <!-- page-category -->
+    {% else %}
+    	<!-- Unindexed: {{ page.title }} -->
+    {% endif %}   <!-- resource-p -->
+  {% endfor %}  <!-- page -->
+</ul>
+  </div>
+{% endfor %}  <!-- cat -->
+	  </div>
+</div>
