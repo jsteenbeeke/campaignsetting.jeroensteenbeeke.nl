@@ -1,0 +1,25 @@
+---
+
+---
+
+<table class="table">
+	<thead>
+		<tr>
+			<th colspan="2">{{ include.name }}</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% if include.origin %}
+		<tr>
+			<th scope="row">World of origin</th>
+			<td>{{ include.origin }}</td>
+		</tr>
+		{% endif %}
+		{% if include.home %}
+		<tr>
+			<th scope="row">Home island</th>
+			<td>{{ include.home }}</td>
+		</tr>
+		{% endif %}
+	</tbody>
+</table>

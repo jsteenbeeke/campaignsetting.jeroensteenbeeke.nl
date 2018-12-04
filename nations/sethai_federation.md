@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Tower Guardians
+title: Sethai Federation
 indexed: true
 categories: [Nations]
---
+---
 
-The tower guardians rock!-
