@@ -1,0 +1,19 @@
+<table class="table">
+	<thead>
+		<tr>
+			<th colspan="2">{{ include.name }}</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">Location</th>
+			<td>{{ include.location }}</td>
+		</tr>
+		{% if include.jurisdiction %}
+		<tr>
+			<th scope="row">Jurisdiction</th>
+			<td>{{ include.jurisdiction }}</td>
+		</tr>
+		{% endif %}}
+	</tbody>
+</table>
