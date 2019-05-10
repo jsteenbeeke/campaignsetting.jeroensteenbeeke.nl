@@ -6,4 +6,4 @@ indexed: true
 categories: [Races]
 ---
 
-{% include raceBlock.html name="Sethai" origin="Eversea" home="Talias" %}
+{% include raceBlock.html name="Sethai" origin="Eluneia" home="Talias" %}
