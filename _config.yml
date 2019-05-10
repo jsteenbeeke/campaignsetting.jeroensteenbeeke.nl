@@ -5,7 +5,7 @@ author:
 description:
 url:
 
-category-list: [ Nations, Races, Locations, Organizations ]
+category-list: [ Nations, Races, Locations, History, Organizations ]
 
 # Build settings
 permalink: :title/

@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Turians
-fifth-equiv: Humans of European descent
+fifth-equiv: Humans of Germanic/Romance descent
 indexed: true
 categories: [Races]
 ---
 
-{% include raceBlock.html name="Turians" origin="Danaros" home="Sunwake" %}
+{% include raceBlock.html name="Turians" origin="Danaros" home="Sunwake" nation="Coalition of Free Peoples" nationlink="/nations/coalition_of_free_peoples" %}
 
 ## Rules
 

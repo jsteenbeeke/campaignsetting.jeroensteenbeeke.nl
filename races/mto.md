@@ -6,7 +6,7 @@ indexed: true
 categories: [Races]
 ---
 
-{% include raceBlock.html name="M'to" origin="Eluneia" home="Nyumbani" %}
+{% include raceBlock.html name="M'to" origin="Eluneia" home="Nyumbani" nation="Northborn Alliance" nationlink="/nations/northborn_alliance" %}
 
 ## Rules
 

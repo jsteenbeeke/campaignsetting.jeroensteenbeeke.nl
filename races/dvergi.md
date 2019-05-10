@@ -6,7 +6,7 @@ indexed: true
 categories: [Races]
 ---
 
-{% include raceBlock.html name="Dvergi" origin="Eluneia" home="Tulivar" %}
+{% include raceBlock.html name="Dvergi" origin="Eluneia" home="Tulivar" nation="Northborn Alliance" nationlink="/nations/northborn_alliance" %}
 
 Dvergi follow the same rules as the **Duergar variant** [as defined on the D&D 5e Wiki](https://www.dandwiki.com/wiki/Duergar,_Variant_(5e_Subrace)), with the following changes:
 

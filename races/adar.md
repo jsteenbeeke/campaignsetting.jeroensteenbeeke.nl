@@ -6,7 +6,7 @@ indexed: true
 categories: [Races]
 ---
 
-{% include raceBlock.html name="Adar" origin="Eluneia" home="Darkama" %}
+{% include raceBlock.html name="Adar" origin="Eluneia" home="Darkama" nation="Adar Kingdom" nationlink="/nations/adar_kingdom" %}
 
 ## Rules
 

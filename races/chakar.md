@@ -6,7 +6,7 @@ indexed: true
 categories: [Races]
 ---
 
-{% include raceBlock.html name="Chakar" origin="Danaros" home="Liberation" %}
+{% include raceBlock.html name="Chakar" origin="Danaros" home="Liberation" nation="Chakar Republic" nationlink="/nations/chakar_republic" %}
 
 ## Rules
 

@@ -6,7 +6,7 @@ indexed: true
 categories: [Races]
 ---
 
-{% include raceBlock.html name="Sethai" origin="Eluneia" home="Talias" %}
+{% include raceBlock.html name="Sethai" origin="Eluneia" home="Talias" nation="Sethai Federation" nationlink="/nations/sethai_federation" %}
 
 ## Rules
 

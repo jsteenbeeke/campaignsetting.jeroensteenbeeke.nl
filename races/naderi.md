@@ -6,7 +6,7 @@ indexed: true
 categories: [Races]
 ---
 
-{% include raceBlock.html name="Naderi" origin="Danaros" home="Splendor" %}
+{% include raceBlock.html name="Naderi" origin="Danaros" home="Splendor" nation="Naderi Empire" nationlink="/nations/naderi_empire" %}
 
 ## Rules
 
