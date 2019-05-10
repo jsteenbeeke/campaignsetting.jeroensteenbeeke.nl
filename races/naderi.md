@@ -10,7 +10,7 @@ categories: [Races]
 
 ## Rules
 
-Naderi follow the same rules as **Drow** as stated in the Player's Handbook, page 24, with the following changes.
+Naderi follow the same rules as **Drow** as stated in the Player's Handbook, page 24, with the following changes:
 
 - Naderi do not suffer from _Sunlight Sensitivity_
 - Naderi gain the [Child of Danaros](/rules/child_of_danaros) trait
