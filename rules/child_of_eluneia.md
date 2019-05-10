@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Rule - Child of Eluneia
+title: Child of Eluneia
+categories: [Rules]
+indexed: true
 ---
 
 A child of Eluneia is a member of a race whose origin lies on the world of [Eluneia](/locations/danaros), and as such was raised in a culture primarily familiar with the history and customs of that world. In game terms, this has the following effects:

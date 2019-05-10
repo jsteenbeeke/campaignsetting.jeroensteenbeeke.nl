@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Rule - Child of Danaros
+title: Child of Danaros
+categories: [Rules]
+indexed: true
 ---
 
 A child of Danaros is a member of a race whose origin lies on the world of [Danaros](/locations/danaros), and as such was raised in a culture primarily familiar with the history and customs of that world. In game terms, this has the following effects:
