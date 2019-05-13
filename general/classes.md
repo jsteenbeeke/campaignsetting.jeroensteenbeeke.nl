@@ -41,3 +41,23 @@ Given the oceanic nature of Eluneia, Druids from the Circle of the Land are ofte
 
 ## Fighter
 
+Fighters exist among all races and nations.
+
+## Monk
+
+Monks and monastic traditions were commonplace on [Danaros](/locations/danaros), but the [Unbinding](/history/the-unbinding) destroyed all of their monasteries, leaving only those who had left (or were forced ot leave) the monasteries alive
+to continue their traditions and found new monasteries. Even so, any race with origins on Danaros can be a Monk.
+
+In addition to this, the [Sethai federation's Fian Orcha caste](/nations/sethai_federation) has many monastic orders.
+
+## Paladin
+
+Paladins primarily exist in:
+
+- The [Kingdom of Adar](/nations/adar_kingdom)
+- The [Coalition of Free Peoples](/nations/coalition_of_free_peoples)
+- The [Fian Crait caste of the Sethai Federation](/nations/sethai_federation)
+
+## Ranger
+
+Rangers exist among all races and people, though they are less common in the [Kingdom of Adar](/nations/adar_kingdom) and the [Sethai Federation](/nations/sethai_federation).
