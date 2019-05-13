@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chakar Republic
+title: Chadori Republic
 indexed: true
 categories: [Nations]
 ---
