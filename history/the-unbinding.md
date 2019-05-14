@@ -22,5 +22,5 @@ least, they thought they would be safe. But the oceans of Danaros only slowed th
 dissolving as soon as they got too close to land. Each day, the Unbinding spread farther from their shores.
 
 In the end, seeing their civilizations in ruins and vast numbers of their people dead, the survivors
-of Danaros&mdash;whoever had ships to sail and the means to cross the planes&mdash;fled to [Eluneia](/races/eluneia), 
+of Danaros&mdash;whoever had ships to sail and the means to cross the planes&mdash;fled to [Eluneia](/locations/eluneia), 
 a world of many islands, many of them still uninhabited.
