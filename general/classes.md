@@ -25,6 +25,7 @@ Bards exist among all races, though the prevalence of each college depends on th
 | [Naderi Empire](/nations/naderi_empire) | Lore |
 | [Northborn Alliance](/nations/northborn_alliance) | Valor |
 | [Sethai Federation](/nations/sethai_federation) | Lore |
+| [Third Wave](/nations/third_wave) | Valor |
 
 The [Tower Guardians](/nations/tower_guardians) are not known to have Bards, nor any form of entertainment.
 
@@ -34,7 +35,7 @@ Clerics exist among all races and nations.
 
 ## Druid
 
-Druids are primarily common in the races of the [Northborn Coalition](/nations/northborn_coalition), though members of races originally from [Danaros](/locations/danaros) who were born in [Eluneia](/locations/eluneia) joining Druidic circles
+Druids are primarily common in the races of the [Northborn Coalition](/nations/northborn_coalition) and the [Third Wave](/nations/third_wave), though members of races originally from [Danaros](/locations/danaros) who were born in [Eluneia](/locations/eluneia) joining Druidic circles
 are not unheard of.
 
 Given the oceanic nature of Eluneia, Druids from the Circle of the Land are often (but not always) Coastal.
@@ -57,6 +58,7 @@ Paladins primarily exist in:
 - The [Kingdom of Adar](/nations/adar_kingdom)
 - The [Coalition of Free Peoples](/nations/coalition_of_free_peoples)
 - The [Fian Crait caste of the Sethai Federation](/nations/sethai_federation)
+- The [Third Wave](/nations/third_wave)
 
 ## Ranger
 
@@ -79,23 +81,5 @@ Warlocks exist among all races and people, with the following restrictions:
 
 ## Wizard
 
-Wizards exist among all races and peopl due to heavy urbanization and agriculture leading to a lack of lands that are truly wild.
-
-## Rogue
-
-Rogues exist among all races and people.
-
-## Sorceror
-
-Sorcerors exist among all races and people.
-
-## Warlocks
-
-Warlocks exist among all races and people, with the following restrictions:
-
-- Children of Danaros cannot have pacts with Archfey
-- Children of Eluneia can only have pacts with Archfey
-
-## Wizard
-
-Wizards of all schools exist among all races and people, though they are rare in the [Northborn Alliance](/nations/northborn_alliance), and there is a taboo on Necromancy in the [Kingdom of Adar](/nations/adar_kingdom) and the [Sethai Federation](/nations/sethai_federation).
+Wizards of all schools exist among all races and people, though they are rare in the [Northborn Alliance](/nations/northborn_alliance), 
+and there is a taboo on Necromancy in the [Kingdom of Adar](/nations/adar_kingdom) and the [Sethai Federation](/nations/sethai_federation).
