@@ -12,4 +12,5 @@ categories: [Races]
 
 Turians follow the same rules as the **Variant Humans** as stated in the Player's Handbook, page 29 to 31, with the following changes:
 
+- Turians speak [Turian](/general/languages) (instead of Common), and one language of their choice.
 - Turians gain the [Child of Danaros](/rules/child_of_danaros) trait

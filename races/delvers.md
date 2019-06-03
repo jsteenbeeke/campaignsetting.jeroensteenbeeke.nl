@@ -12,4 +12,6 @@ categories: [Races]
 
 Delvers follow the same rules as **Deep Gnomes** as stated in the Sword Coast Adventurer's Guide, page 115, with the following addition:
 
+- Delvers speak [Delver](/general/languages) (instead of Undercommon) and [Lakhta](/general/languages)
+- Delvers do not speak Gnomish
 - Delvers gain the [Child of Danaros](/rules/child_of_danaros) trait

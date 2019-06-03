@@ -10,6 +10,7 @@ categories: [Races]
 
 ## Rules
 
-Mordhain follow the same rules as **Tieflings** as stated in the Player's Handbook, page 42 and 43, with the following change:
+Mordhain follow the same rules as **Tieflings** as stated in the Player's Handbook, page 42 and 43, with the following changes:
 
+- Mordhain speak [Turian](/general/languages) (instead of Common) and [Infernal](/general/languages)
 - Mordhain gain the [Child of Danaros](/rules/child_of_danaros) trait

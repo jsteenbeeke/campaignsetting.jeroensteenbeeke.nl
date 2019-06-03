@@ -12,4 +12,8 @@ categories: [Races]
 
 M'to follow the same rules as the **Humans** as stated in the Player's Handbook, page 29 to 31, with the following changes:
 
+- M'to speak [M'to](/general/languages), one language of their choice, and one of the following:
+  - [Dvergi](/general/languages)
+  - [Griash](/general/languages)
+  - [Kalai](/general/languages)
 - M'to gain the [Child of Eluneia](/rules/child_of_eluneia) trait

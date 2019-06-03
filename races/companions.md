@@ -12,4 +12,5 @@ categories: [Races]
 
 Companions follow the same rules as **Halflings** as stated in the Player's Handbook, page 26 and 28, with the following change:
 
+- Companions speak [Ruaini](/general/languages) (instead of Halfling) and [Turian](/general/languages) (instead of Common)
 - Companions gain the [Child of Danaros](/rules/child_of_danaros) trait

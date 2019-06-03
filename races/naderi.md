@@ -12,5 +12,6 @@ categories: [Races]
 
 Naderi follow the same rules as **Drow** as stated in the Player's Handbook, page 24, with the following changes:
 
+- Naderi speak [High Imperial](/general/languages) (instead of Elvish) and [Turian](/general/languages) (instead of Common)
 - Naderi do not suffer from _Sunlight Sensitivity_
 - Naderi gain the [Child of Danaros](/rules/child_of_danaros) trait

@@ -10,4 +10,5 @@ categories: [Races]
 
 Belehain follow the same rules as **Tritons** as defined on pages 115 to 118 of Volo's Guide to Monsters, with the following addition:
 
+- Belehain speak [Wavesong](/general/languages) (instead of Primordial) and [Turian](/general/languages) (instead of Common)
 - Belehain gain the [Child of Eluneia](/rules/child_of_eluneia) trait
