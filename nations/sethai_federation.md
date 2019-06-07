@@ -16,6 +16,3 @@ Each member of the Sethai Federation belongs to one of three castes:
 - Fian Crait - The war caste
 
 Each caste has its own method of governance; the nation as a whole is governed by a body called the Fian Awin, though it is unknown were they are based or who its members are.
-
-
-

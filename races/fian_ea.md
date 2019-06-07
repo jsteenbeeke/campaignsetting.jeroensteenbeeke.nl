@@ -18,6 +18,7 @@ The Fian Ea were created eight hundred years ago as part of the [War of the wave
 
 Fian Ea follow the same rules as the **Sea Elves** as stated on page 62 of Mordankainen's Tome of Foes, with the following changes:
 
-- Fian Ea speak [the Gray Speech](/general/languages) (instead of Aquan). Their dialect is typically hard to understand for other speakers of the language
+- Fian Ea speak [the Gray Speech](/general/languages) (instead of Aquan). Their dialect is typically hard to understand for other speakers of the language. 
+  In addition, Fian Ea who choose to become adventurers also know [Turian](/general/languages).
 - Fian Ea gain the [Child of Eluneia](/rules/child_of_eluneia) trait
 - Fian Ea gain the following Flaw: "I cannot harm a member of the [Fian Awin](/nations/sethai_federation), and must obey their commands"
