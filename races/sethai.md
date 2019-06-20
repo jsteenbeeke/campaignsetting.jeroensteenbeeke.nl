@@ -18,6 +18,8 @@ stop curious Sethai from becoming adventurers.
 Physically, the Sethai resemble [Eriothi](/races/eriothi), though they have skin that is even paler than the [Lakhta](/races/lakhta), are completely hairless,
 and have black spots that originate from their necks, follow their jaw to their temples, and form a crown around the cranium. 
 
+The Sethai have [their own pantheon](/pantheons/fian_chai).
+
 ## Rules
 
 Sethai follow the same rules as the **High Elves** as stated in the Player's Handbook, page 23 to 24, with the following changes:
