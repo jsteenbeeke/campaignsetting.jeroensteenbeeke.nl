@@ -18,6 +18,10 @@ Naderi Empire, that lasted until the outbreak of [the Unbinding](/history/the-un
 islands in Eluneia, taking as many of their kin as they could, while the Naderi struggled to organize their own evacuation, leaving
 those Chadori still enslaved in Danaros to die of the Unbinding.
 
+## Religion
+
+Chadori typically worship [Jao Quan](/pantheons/the_unscathed).
+
 ## Rules
 
 Chadori follow the same rules as **Dragonborn** as stated in the Player's Handbook, page 32-34, with the following change:

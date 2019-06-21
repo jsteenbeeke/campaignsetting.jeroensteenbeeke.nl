@@ -14,6 +14,8 @@ To the untrained eye, the Fian Ea look just like [Sethai](/races/sethai): tall, 
  
 The Fian Ea were created eight hundred years ago as part of the [War of the waves](/history/war_of_the_waves).
 
+## Religion
+
 The Fian Ea generally worship [Felician](/pantheons/fian_chai).
 
 ## Rules

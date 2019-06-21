@@ -19,6 +19,10 @@ Through the efforts of the Turian navy, a significant number of them were saved,
 Eriothi are taller than humans, though much slighter of build. They have copperish skin that sometimes shows hints of green, and very
 prominent pointy ears.
 
+## Religion
+
+Eriothi typically worship [Riaal](/pantheons/the_unscathed).
+
 ## Rules
 
 Eriothi follow the same rules as **Wood Elves** as stated in the Player's Handbook, page 24, with the following changes:

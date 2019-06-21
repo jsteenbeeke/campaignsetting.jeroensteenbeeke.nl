@@ -11,6 +11,10 @@ categories: [Races]
 Erihain are children born out of unions between [Eriothi](/races/eriothi) and either [Turians](/races/turians) or [Lakhta](/races/lakhta), though the latter is
 far less common.
 
+## Religion
+
+Erihain typically worship [Belliom or Riaal](/pantheons/the_unscathed).
+
 ## Rules
 
 Erihain follow the same rules as **Half Elves** as stated in the Player's Handbook, page 39 and 40, with the following change:

@@ -8,6 +8,10 @@ categories: [Races]
 
 {% include raceBlock.html name="Stoneborn" origin="Danaros" home="Sunwake" nation="Coalition of Free Peoples" nationlink="/nations/coalition_of_free_peoples" %}
 
+## Religion
+
+Stoneborn typically worship [Riaal](/pantheons/the_unscathed).
+
 ## Rules
 
 Stoneborn follow the same rules as **Mountain Dwarves** as stated in the Player's Handbook, page 20, with the following changes:

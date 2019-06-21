@@ -8,6 +8,10 @@ categories: [Races]
 
 {% include raceBlock.html name="Turians" origin="Danaros" home="Sunwake" nation="Coalition of Free Peoples" nationlink="/nations/coalition_of_free_peoples" %}
 
+## Religion
+
+Turians typically worship [Belliom or Riaal](/pantheons/the_unscathed).
+
 ## Rules
 
 Turians follow the same rules as the **Variant Humans** as stated in the Player's Handbook, page 29 to 31, with the following changes:
