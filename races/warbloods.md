@@ -16,7 +16,7 @@ Warbloods typically worship [Gwydion, Dealas or Vaedrung](/pantheons/watchers).
 
 Warbloods follow the same rules as **Half-Orcs** as defined on pages 40 and 41 of the Player's Handbook, with the following changes:
 
-- Kalai speak [Griash](/general/languages) (instead of Orcish), [Danaran](/general/languages) (instead of Common), and one of the following:
+- Kalai speak [Griash](/general/languages) (instead of Orcish), [Turian](/general/languages) (instead of Common), and one of the following:
   - [Dvergi](/general/languages)
   - [Kalai](/general/languages)
   - [M'to](/general/languages)
