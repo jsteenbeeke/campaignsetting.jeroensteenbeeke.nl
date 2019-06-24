@@ -8,6 +8,10 @@ categories: [Races]
 
 {% include raceBlock.html name="Kalai" origin="Eluneia" home="Tranquility" nation="Northborn Alliance" nationlink="/nations/northborn_alliance" %}
 
+## Religion
+
+Kalai typically worship [Gwydion, Dealas or Kaelash](/pantheons/watchers).
+
 ## Rules
 
 Kalai follow the same rules as the **Forest Gnomes** as stated in the Player's Handbook, page 37, with the following changes:

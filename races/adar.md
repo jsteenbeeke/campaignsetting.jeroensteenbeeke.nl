@@ -12,6 +12,10 @@ The Adar, or "people of the hills", as they call themselves, are an ancient peop
 that survived the [Great Cataclysm](/history/great-cataclysm). People from Danaros often mistake them for [Stoneborn](/races/stoneborn)—
 a comparison neither the Adar nor the Stoneborn appreciate—even though the two species are not biologically compatible.
 
+## Religion
+
+Adar typically worship [Gwydion, Saigra or Kaelash](/pantheons/watchers).
+
 ## Rules
 
 Adar follow the same rules as **Hill Dwarves** as stated in the Player's Handbook, page 20, with the following changes:

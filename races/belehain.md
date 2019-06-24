@@ -8,6 +8,12 @@ categories: [Races]
 
 {% include raceBlock.html name="Belehain" origin="Eluneia" nation="The Third Wave" nationlink="/nations/third_wave" %}
 
+## Religion
+
+Belehain tend to be atheistic, considering the [Lord of the Deep](/nations/third_wave) more tangible than any god, though some of them worship [Ord](/pantheons/watchers).
+
+## Rules
+
 Belehain follow the same rules as **Tritons** as defined on pages 115 to 118 of Volo's Guide to Monsters, with the following addition:
 
 - Belehain speak [Wavesong](/general/languages) (instead of Primordial) and [Turian](/general/languages) (instead of Common)

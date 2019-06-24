@@ -8,6 +8,10 @@ categories: [Races]
 
 {% include raceBlock.html name="Wavetouched" origin="Eluneia" nation="The Third Wave" nationlink="/nations/third_wave" %}
 
+## Religion
+
+Wavetouched tend to be atheistic, considering the [Lord of the Deep](/nations/third_wave) more tangible than any god, though some of them worship [Ord](/pantheons/watchers).
+
 ## Rules
 
 Wavetouched follow the same rules as **Water Genasi** as defined on pages 7 to 10 of the Elemental Evil Player's Guide, with the following addition:

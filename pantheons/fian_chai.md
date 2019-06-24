@@ -10,8 +10,8 @@ with only the principal god of each caste still having a significant number of f
 
 | God | Caste | Domains | Symbol |
 | --- | --- | --- | --- |
-| Khata Eas Shar, god of War | Fian Crait | War, Death | A sword piercing the sun |
-| Merindalla, goddess of Magic | Fian Orcha | Knowledge, Life | A four-pointed star  |
+| Khata Eas Shar, god of War | Fian Crait | War, Grave | A sword piercing the sun |
+| Merindalla, goddess of Magic | Fian Orcha | Arcane, Knowledge | A four-pointed star  |
 | Javidia, goddess of Love | Fian Erigen | Light, Trickery | Two Sethai, melting together in an embrace |
 | Felician, god of Storms | *Fian Ea* | Nature, Tempest | A leaping salmon |
 | 
