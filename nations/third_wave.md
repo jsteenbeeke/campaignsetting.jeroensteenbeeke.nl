@@ -11,4 +11,5 @@ The Third Wave are governed by a group known only as the Lords of the Deep, but 
 nor to many of their subjects.
 
 The Third Wave once had the goal of conquering all the seas of Eluneia, but following the [War of the Waves](/history/war_of_the_waves)
-they have mostly kept to themselves.
+they have mostly kept to themselves. It is said that they spend a lot of their resources fighting enemies unknown to
+surface-dwellers, such as incursions from aquatic planes.

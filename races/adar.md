@@ -12,6 +12,9 @@ The Adar, or "people of the hills", as they call themselves, are an ancient peop
 that survived the [Great Cataclysm](/history/great-cataclysm). People from Danaros often mistake them for [Stoneborn](/races/stoneborn)—
 a comparison neither the Adar nor the Stoneborn appreciate—even though the two species are not biologically compatible.
 
+Male Adar are known for their beards, and even children as young as four already have facial hair. Female Adar do not have
+facial hair.
+
 ## Religion
 
 Adar typically worship [Gwydion, Saigra or Kaelash](/pantheons/watchers).

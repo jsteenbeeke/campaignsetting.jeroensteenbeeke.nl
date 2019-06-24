@@ -8,6 +8,10 @@ categories: [Races]
 
 {% include raceBlock.html name="Delvers" origin="Danaros" home="Kruna" nation="Lakhta Hegemony" nationlink="/nations/laktha_hegemony" %}
 
+Delvers are a lean and dark-skinned folk that is not well-known outside of the [Lakhta Hegemony](/races/delvers), where they live as slaves
+to the [Lakhta](/races/lakhta). While it is suspected they are related to the [Tinkers](/races/tinkers) in some way, there
+is no way to verify this, as they have been slaves longer than there are written records.
+
 ## Religion
 
 Delvers, in public, appear to worship [Xax](/pantheons/the_unscathed) like their [Lakhta](/races/lakhta) overlords, though
