@@ -10,7 +10,8 @@ categories: [Races]
 
 In comparison to other humans, the M'to stand out. They are dark-skinned, and live in tribal societies that are considered
 primitive by most other civilizations. Despite this reputation, however, the M'to are skilled craftsmen, and expert builders
-when it comes to anything made of wood.
+when it comes to anything made of wood. A common saying among their allies, the [Dvergi](/races/dvergi), is that if you
+give an M'to three nails and a single tree, he'll build a cathedral.
 
 The M'to people are not united in the same sense that other races are, instead forming a loose collection of tribes that 
 meet on every full moon to discuss the future of their peoples. Outside of this, it is not rare to find the M'to fighting

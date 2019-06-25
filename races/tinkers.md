@@ -8,9 +8,20 @@ categories: [Races]
 
 {% include raceBlock.html name="Tinkers" origin="Danaros" home="Sunwake" nation="Coalition of Free Peoples" nationlink="/nations/coalition_of_free_peoples" %}
 
+Tinkers are a short folk, taller than [Companions](/races/companions) but shorter than [Stoneborn](/races/stoneborn), though
+no one would mistake them for such. They have a passing resemblance to the [Kalai](/races/kalai), but other than physical
+similarities, the two races have nothing in common.
+ 
+Tinkers are travelers, first and foremost. Even on [Danaros](/locations/danaros), they did not have any permanent settlements,
+instead living primarily in traveling carts, a way of life still practiced by some on the islands of the [Coalition of Free Peoples](/nations/coalition_of_free_peoples). 
+Most of the survivors live on ships now, and they travel the waters of [Eluneia](/locations/eluneia) in small fleets, going
+from port to port.
+
+Tinkers are also known for their inventiveness, a trait admired among many.
+
 ## Religion
 
-Eriothi typically worship [Drazh](/pantheons/the_unscathed).
+Tinkers typically worship [Drazh](/pantheons/the_unscathed).
 
 ## Rules
 
