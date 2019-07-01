@@ -12,7 +12,7 @@ The Council is named after the city of [Consensus](/locations/consensus), where 
 
 The Consensus Council consists of representatives from the following nations:
 
-* [Chakar Republic](/nations/chakar_republic)
+* [Chadori Republic](/nations/chadori_republic)
 * [Coalition of Free Peoples](/nations/coalition_of_free_peoples)
 * [Naderi Empire](/nations/naderi_empire)
 * [Northborn Alliance](/nations/northborn_alliance)
@@ -31,7 +31,7 @@ The Consensus Council currently has the following members:
 
 | Nation | Ambassador | Race | Notes |
 | --- | --- | --- | --- |
-| Chakar Republic | Chan Elias Pento | Chadori |  _As a former slave, has a well-known grudge against the Naderi_ |
+| Chadori Republic | Chan Elias Pento | Chadori |  _As a former slave, has a well-known grudge against the Naderi_ |
 | Coalition of Free Peoples | Jerem Sharis | Turian | _Former military commander_ |
 | Naderi Empire | Melindra Lonaria | Naderi | _Second cousin of [Saphira Lonaria, the Naderi empress](/nations/naderi_empire#recent-events)_ |
 | Northborn Alliance | Wiba Samaki | M'to | - |
