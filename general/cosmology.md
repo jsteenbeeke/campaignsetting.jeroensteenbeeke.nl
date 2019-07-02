@@ -74,7 +74,7 @@ Roa, also known as the Dreamlands, is the resting place of heroes. It is a peace
 #### Saugra
 
 Saugra, also known as the great torment, is a prison for those who have caused great suffering. It is a place of punishment,
-where armies of devils constantly fie to inflict ever greater torments on those who are sent there.
+where armies of devils constantly vie to inflict ever greater torments on those who are sent there.
 
 #### Perpetuum
 
