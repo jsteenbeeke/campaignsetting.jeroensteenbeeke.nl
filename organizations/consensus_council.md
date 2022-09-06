@@ -29,12 +29,12 @@ the [Tower Guardians](/nations/tower_guardians) after a failed attempt of conque
 
 The Consensus Council currently has the following members:
 
-| Nation | Ambassador | Race | Notes |
-| --- | --- | --- | --- |
-| Chadori Republic | Chan Elias Pento | Chadori |  _As a former slave, has a well-known grudge against the Naderi_ |
-| Coalition of Free Peoples | Jerem Sharis | Turian | _Former military commander_ |
-| Naderi Empire | Melindra Lonaria | Naderi | _Second cousin of [Saphira Lonaria, the Naderi empress](/nations/naderi_empire#recent-events)_ |
-| Northborn Alliance | Wiba Samaki | M'to | - |
-| Sethai Federation | Elleshana | Sethai | _Member of the [Fian Orcha, the religious caste](/nations/sethai_federation)_ |
-| The Third Wave | Mahariel | Belehain | - |
-| Tower Guardians | Aurelius Princeps | Tower Guardian | - |  
+| Nation | Ambassador                                      | Race | Notes                                                                              |
+| --- |-------------------------------------------------| --- |------------------------------------------------------------------------------------|
+| Chadori Republic | [Chan Elias Pento](/persons/chan_elias_pento)   | Chadori | _As a former slave, has a well-known grudge against the Naderi_                    |
+| Coalition of Free Peoples | [Jerem Sharis](/persons/jerem_sharis)           | Turian | _Former military commander_                                                        |
+| Naderi Empire | [Melindra Lonaria](/persons/melindra_lonaria)   | Naderi | _Second cousin of [Saphira Lonaria, the Naderi empress](/persons/saphira_lonaria)_ |
+| Northborn Alliance | [Wiba Samaki](/persons/wiba_samaki)             | M'to | -                                                                                  |
+| Sethai Federation | [Elleshana](/persons/elleshana)                 | Sethai | _Member of the [Fian Orcha, the religious caste](/nations/sethai_federation)_      |
+| The Third Wave | Mahariel                                        | Belehain | -                                                                                  |
+| Tower Guardians | [Aurelius Princeps](/persons/aurelius_princeps) | Tower Guardian | -                                                                                  |  

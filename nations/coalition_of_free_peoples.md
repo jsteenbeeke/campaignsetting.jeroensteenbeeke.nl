@@ -15,6 +15,8 @@ The Coalition was formed to replace the defunct [Turian](/races/turians) electiv
 of its electors in [the Unbinding](/history/the-unbinding), and whose leaders saw that drastic reforms were needed to
 address the needs of the diverse group of people now populating their new lands.
 
+The Coalition's capital is the city of [Sunwake](/locations/sunwake)
+
 ## Government
 
 The Coalition of Free Peoples is ruled by a council composed of 11 members: two from each race, and one additional one
