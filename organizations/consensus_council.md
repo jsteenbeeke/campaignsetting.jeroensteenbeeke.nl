@@ -29,12 +29,12 @@ the [Tower Guardians](/nations/tower_guardians) after a failed attempt of conque
 
 The Consensus Council currently has the following members:
 
-| Nation | Ambassador                                      | Race | Notes                                                                              |
-| --- |-------------------------------------------------| --- |------------------------------------------------------------------------------------|
-| Chadori Republic | [Chan Elias Pento](/persons/chan_elias_pento)   | Chadori | _As a former slave, has a well-known grudge against the Naderi_                    |
-| Coalition of Free Peoples | [Jerem Sharis](/persons/jerem_sharis)           | Turian | _Former military commander_                                                        |
-| Naderi Empire | [Melindra Lonaria](/persons/melindra_lonaria)   | Naderi | _Second cousin of [Saphira Lonaria, the Naderi empress](/persons/saphira_lonaria)_ |
-| Northborn Alliance | [Wiba Samaki](/persons/wiba_samaki)             | M'to | -                                                                                  |
-| Sethai Federation | [Elleshana](/persons/elleshana)                 | Sethai | _Member of the [Fian Orcha, the religious caste](/nations/sethai_federation)_      |
-| The Third Wave | Mahariel                                        | Belehain | -                                                                                  |
-| Tower Guardians | [Aurelius Princeps](/persons/aurelius_princeps) | Tower Guardian | -                                                                                  |  
+| Nation                     | Picture                                                            | Ambassador                                      | Race           | Notes                                                                              |
+|----------------------------|--------------------------------------------------------------------|-------------------------------------------------|----------------|------------------------------------------------------------------------------------|
+| Chadori Republic           | ![Chan Elias Pento](/persons/chan_elias_pento.png){:width="150px"} | [Chan Elias Pento](/persons/chan_elias_pento)   | Chadori        | _As a former slave, has a well-known grudge against the Naderi_                    |
+| Coalition of Free Peoples  | ![Jerem Sharis](/persons/jerem_sharis.png){:width="150px"}             | [Jerem Sharis](/persons/jerem_sharis)           | Turian                                        | _Former military commander_                                                        |
+| Naderi Empire              | ![Melindra Lonaria](/persons/melindra_lonaria.png){:width="150px"}     | [Melindra Lonaria](/persons/melindra_lonaria)   | Naderi                                        | _Second cousin of [Saphira Lonaria, the Naderi empress](/persons/saphira_lonaria)_ |
+| Northborn Alliance         | ![Wiba Samaki](/persons/wiba_samaki.png){:width="150px"}               | [Wiba Samaki](/persons/wiba_samaki)             | M'to                                          | -                                                                                  |
+| Sethai Federation          | ![Elleshana](/persons/elleshana.png){:width="150px"}                   | [Elleshana](/persons/elleshana)                 | Sethai                                        | _Member of the [Fian Orcha, the religious caste](/nations/sethai_federation)_      |
+| The Third Wave             | ![Mahariel](/persons/mahariel.png){:width="150px"}                     | [Mahariel](/persons/mahariel)                   | Belehain                                      | -                                                                                  |
+| Tower Guardians            | ![Aurelius Princeps](/persons/aurelius_princeps.png){:width="150px"}   | [Aurelius Princeps](/persons/aurelius_princeps) | Tower Guardian                                | -                                                                                  |  
