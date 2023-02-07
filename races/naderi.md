@@ -23,7 +23,7 @@ their race still maintain their arrogance.
 
 ## Religion
 
-Naderi typically worship [Drazh](/pantheons/the_unscathed).
+Naderi typically worship [Allindra](/pantheons/the_unscathed).
 
 ## Rules
 
