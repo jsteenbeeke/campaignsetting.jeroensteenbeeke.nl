@@ -21,7 +21,7 @@ The Consensus Council consists of representatives from the following nations:
 * [Northborn Alliance](/nations/northborn_alliance)
 * [Sethai Federation](/nations/sethai_federation)
 * [The Third Wave](/nations/third_wave)
-* [Tower Guardians](/nations/tower_guardians)
+* [Tower Guardians](/nations/tower-guardians)
 
 The isolationist [Adar Kingdom](/nations/adar_kingdom) declined membership, though are on friendly
 terms with the [Sethai Federation](/nations/sethai_federation) and
