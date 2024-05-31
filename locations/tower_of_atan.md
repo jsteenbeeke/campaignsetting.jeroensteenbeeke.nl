@@ -4,6 +4,9 @@ title: Tower of Atan
 indexed: true
 categories: [Locations]
 ---
+
+![Tower of Atan](/locations/tower_of_atan.png){:width="500px"}
+
 The Tower of Atan is a gigantic structure on [Tower Island](/locations/tower_island) that is known primarily as the location
 of the [Eye of Atan](/items/eye_of_atan). Its exact date of construction is unknown, though the [Sethai](/nations/sethai_federation) claim
 the Eye of Atan did not become visible until after the [Great Cataclysm](/history/great-cataclysm)
