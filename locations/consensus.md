@@ -6,7 +6,7 @@ categories: [Locations]
 ---
 The city of **Consensus** is a large city on [Tower Island](/locations/tower_island), and the only inhabited part of the island aside from the [Tower of Atan](/locations/tower_of_atan).
 
-{% include cityBlock.html name="Consensus" location="Tower Island" population="more than 40.000" jurisdiction="Tower Guardians<br />Coalition of Free Peoples (surface)<br />Third Wave (undercity)" %}
+{% include cityBlock.html name="Consensus" location="Tower Island" population="8.065" jurisdiction="Tower Guardians<br />Coalition of Free Peoples (surface)<br />Third Wave (undercity)" %}
 
 Consensus is home to people of all races, and as such is one of the most vibrant cities on [Eluneia](/locations/eluneia). It was founded
 shortly after [the Unbinding](/history/the-unbinding) as a gathering place for the various nations, to enable peaceful resolution
