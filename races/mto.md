@@ -25,7 +25,7 @@ M'to typically worship [Ord, Dealas or Saigra](/pantheons/watchers).
 
 M'to follow the same rules as the **Humans** as stated in the Player's Handbook, page 29 to 31, with the following changes:
 
-- M'to speak [M'to](/general/languages), one language of their choice, and one of the following:
+- M'to speak [M'to](/general/languages), [Turian](/general/languages), and one of the following:
   - [Dvergi](/general/languages)
   - [Griash](/general/languages)
   - [Kalai](/general/languages)
