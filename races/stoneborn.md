@@ -13,7 +13,7 @@ to the afflication starting in one of their largest settlements and spreading to
 urgency was understood.
 
 Stoneborn are short and stout, and sometimes mistaken for [Adar](/races/adar) by people native to [Eluneia](/locations/eluneia),
-a comparison neither the Adar nor the Stoneborn appreciate (the two species are not compatible).
+a comparison neither the Adar nor the Stoneborn appreciate.
 
 Both male and female Stoneborn have beards. Facial hair generally starts growing during puberty, as with humans.
 

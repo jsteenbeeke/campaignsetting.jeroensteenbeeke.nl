@@ -36,6 +36,8 @@ enemies of each other.
 
 Dvergi follow the following rules:
 
+- **Humanoid.** You are considered Humanoid for the purpose of abilities, spells and skills that target humanoids.
+- **Dwarf.** You are considered a Dwarf for the purpose of abilities, spells and skills that target Dwarfs.
 - **Ability score increases.** Your Strength score increases by 1 and your Constitution score increases by 2
 - **Darkvision.** You have Darkvision, a remnant of your underground heritage
 - **Dvergi resilience.** You have advantage on saving throws against poison, illusions and against being charmed or
