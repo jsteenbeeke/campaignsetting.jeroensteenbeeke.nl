@@ -30,6 +30,9 @@ the diplomats who also call the city home.
     - Embassy of the Northborn Alliance
     - Embassy of the Sethai Federation
     - Ruins of the Embassy of the Lakhta Hegemony
+- Official buildings
+    - Consensus Council Hall
+    - Peacekeeper Headquarters
 - Entertainment
     - The Prince of Barley (Tavern)
     - The Blood of Grapes (Tavern)
