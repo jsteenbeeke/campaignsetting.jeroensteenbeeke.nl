@@ -17,6 +17,6 @@ Only six of them survived. They are now called the Unscathed, and are worshipped
 | Drazh, goddess of the Hearth         | Stoneborn, Tinkers                             | Knowledge, Light, Order  | ![A burning fire](../holy-symbols/drazh.png){:width="100px"} <br />A burning fire                           |
 | Jao Quan, god of Retribution         | Chadori                                        | Light, War               | ![Two crossed hammers](../holy-symbols/jao_quan.png){:width="100px"} <br />Two crossed hammers              |
 | Riaal, goddess of the Glades         | Erihain, Eriothi, Turians                      | Nature, Knowledge, Peace | ![A bear's paw](../holy-symbols/riaal.png){:width="100px"} <br />A bear's paw                               |
-| Xax, god of Hate<sup>[1](#xax)</sup> | Delvers, Lakhta, Mordhain                      | Death, Forge             | ![A triskelion made of chains](../holy-symbols/xax.png){:width="100px"} <br/> A triskelion made of chains   |
+| Xax, god of Hate<sup>[1](#xax)</sup> | Delvers, Lakhta, Mordhain                      | Death, Forge, Grave      | ![A triskelion made of chains](../holy-symbols/xax.png){:width="100px"} <br/> A triskelion made of chains   |
 
 <a name="xax">1</a>: Followers of Xax refer to him as the god of Passion instead.
