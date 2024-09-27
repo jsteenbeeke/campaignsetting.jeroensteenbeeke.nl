@@ -29,7 +29,7 @@ The Adar are divided into a multitude of clans, though each clan ultimately owes
 
 The five greater clans form a council called the Ti Ann, where each clan has three representatives. The ruler of the Kingdom is called the Ard Rhi, though this position is more a "first among equals" rather than a monarch in the traditional sense, and is elected from the members of the Ti Ann.
 
-The current Ard Rhi is **[Gorm Glondil](../people/gorm_glondil/)**.
+The current Ard Rhi is **[Gorm Glondil](/people/gorm_glondil/)**.
 
 ## Economy
 
