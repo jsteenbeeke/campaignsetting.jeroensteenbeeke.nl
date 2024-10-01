@@ -2,32 +2,34 @@
 layout: page
 title: Kingdom of Adar
 indexed: true
-categories: [Nations]
+categories: [ Nations ]
 ---
 
-The Kingdom of Adar is the second-oldest nation in [Eluneia](/locations/eluneia) (after the [Sethai Federation](/nations/sethai_federation)),
-and one of the few that existed prior to the [Great Cataclysm](/history/great-cataclysm).
+The Kingdom of Adar is the second-oldest nation in [Eluneia](/locations/eluneia) (after
+the [Sethai Federation](/nations/sethai_federation)), and one of the few that existed prior to the [Great Cataclysm](/history/great-cataclysm).
 
-The Kingdom of Adar is highly isolationist, and the only great nation that declined an invitation to join the [Consensus Council](/organizations/consensus_council), instead
-conducting all their trade with the [Fian Erigen](/nations/sethai_federation) as intermediaries.
+The Kingdom of Adar is highly isolationist, and the only great nation that declined an invitation to join
+the [Consensus Council](/organizations/consensus_council), instead conducting all their trade with the [Fian Erigen](/nations/sethai_federation) as intermediaries.
 
 The Kingdom of Adar has a sizable navy, though it is rarely seen beyond their waters.
 
 ## Geography
 
-The Kingdom Adar is located about a day's sail to the southwest of Tower Island, and spans about three dozen islands. The larger islands are hilly and feature steep cliffs, making access difficult except in a few natural bays.
+The Kingdom of Adar is located about a day's sail to the southwest of Tower Island, and spans about three dozen islands. The larger islands are hilly and feature steep cliffs, making access difficult except in a few natural bays.
 
 ## Government
 
 The Adar are divided into a multitude of clans, though each clan ultimately owes allegiance to one of the five great clans:
 
-- Clan Annys
-- Clan Baerath
-- Clan Glondil
-- Clan Ragdar
-- Clan Uthum
+| Clan         | Home Island        |
+|--------------|--------------------|
+| Clan Annys   | Annysheim          |
+| Clan Baerath | Darkana            |
+| Clan Glondil | Windwhistle Island |
+| Clan Ragdar  | Kellethin          |
+| Clan Uthum   | Valenthor          | 
 
-The five greater clans form a council called the Ti Ann, where each clan has three representatives. The ruler of the Kingdom is called the Ard Rhi, though this position is more a "first among equals" rather than a monarch in the traditional sense, and is elected from the members of the Ti Ann.
+The five great clans form a council called the Ti Ann, where each clan has three representatives. The ruler of the Kingdom is called the Ard Rhi, though this position is more a "first among equals" rather than a monarch in the traditional sense, and is elected from the members of the Ti Ann. The Ti Ann and Ard Rhi are housed on Darkana, the traditional home of Clan Baerath.
 
 The current Ard Rhi is **[Gorm Glondil](/persons/gorm_glondil)**.
 
