@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Isin Ronnoc
-indexed: false
+indexed: true
 categories: [People]
 ---
 

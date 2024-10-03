@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dannen Telar
-indexed: false
+indexed: true
 categories: [People]
 ---
 

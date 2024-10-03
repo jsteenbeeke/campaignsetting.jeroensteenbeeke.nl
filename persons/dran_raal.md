@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dran Raal
-indexed: false
+indexed: true
 categories: [People]
 ---
 
