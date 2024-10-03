@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dannen Telar
+title: Isin Ronnoc
 indexed: false
 categories: [People]
 ---
