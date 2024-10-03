@@ -12,7 +12,7 @@ To the untrained eye, the Fian Ea look just like [Sethai](/races/sethai): tall, 
  species be their hairlines. Upon closer examination, however, even a casual observer would notice the slightly bluish 
  hue of their skins, and after a while it becomes hard to ignore the gills and webbed fingers.
  
-The Fian Ea were created eight hundred years ago as part of the [War of the waves](/history/war_of_the_waves).
+The Fian Ea were created eight hundred years ago as part of the [War of the waves](/history/war_of_the_waves). Fian Ea belong to castes in the same manner as regular Sethai, though at least two thirds of them belong to the [Fian Crait](/nations/sethai_federation)
 
 ## Religion
 
