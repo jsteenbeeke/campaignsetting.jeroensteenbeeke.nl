@@ -15,7 +15,7 @@ sailors or adventurers. Through their work, they seek to encourage people to ris
 ## Beliefs
 
 1. Men and women were not meant to be chained by laws and rules
-2. Any form of government is a form of opression
+2. Any form of government is a form of oppression
 3. Governments won't overthrow themselves, they need a hand
 
 ## Goals

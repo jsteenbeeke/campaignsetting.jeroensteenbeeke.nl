@@ -17,10 +17,14 @@
 			<td>{{ include.home }}</td>
 		</tr>
 		{% endif %}
-		{% if include.nation and include.nationlink %}
+		{% if include.nation %}
 		<tr>
 			<th scope="row">Part of nation</th>
-			<td><a href="{{ include.nationlink }}">{{ include.nation }}</a></td>
+			{% if include.nationlink %}
+				<td><a href="{{ include.nationlink }}">{{ include.nation }}</a></td>
+			[% else %}
+				<td>{{ include.nation }}</td>
+			{% endif %}
 		</tr>
 		{% endif %}
 	</tbody>
