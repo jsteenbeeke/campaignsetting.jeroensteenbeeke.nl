@@ -22,7 +22,7 @@
 			<th scope="row">Part of nation</th>
 			{% if include.nationlink %}
 				<td><a href="{{ include.nationlink }}">{{ include.nation }}</a></td>
-			[% else %}
+			{% else %}
 				<td>{{ include.nation }}</td>
 			{% endif %}
 		</tr>
