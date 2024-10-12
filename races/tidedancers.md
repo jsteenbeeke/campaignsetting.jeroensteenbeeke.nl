@@ -10,6 +10,8 @@ categories: [Races]
 
 The Tidedancers are a group of humans who live a nomadic lifestyle. On [Danaros](/locations/danaros) they traveled the lands in wagons, but [the Unbinding](/history/the-unbinding) and the subsequent evacuation by the Turian navy, forced them to leave these wagons behind, finding themselves in the islands that would eventually form the Coalition of Free Peoples. The Tidedancers, however, had no desire to settle down, and instead set about building small fleets of tiny ships called _Laiveen_ that took the place (and in many ways resemble) the wagons they left behind on Danaros.
 
+Tidedancers culture is steeped in tradition, but they are very welcoming to outsiders. Tidedancer musicians are among the greatest in Eluneia.
+
 Tidedancers have a bit of an unsavory reputation among older Turians, though much of the prejudice against them has died with the Unbinding.
 
 ## Religion
