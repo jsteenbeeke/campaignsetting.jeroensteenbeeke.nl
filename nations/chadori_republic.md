@@ -47,3 +47,5 @@ The Chadori maintain a sizable fleet known as the **Unbound Fleet**, and have a 
 Chadori place great emphasis on personal freedom, self-reliance and helping one another. Having lived as slaves, their mantra has become "never again", and all Chadori are trained to fight from an early age to ensure they never become slaves again.
 
 The Chadori have great reference for their ancestors. Chadori are shorter lived than humans, and many of those that freed them from slavery have since died of old age. Their names are venerated alongside that of [Jao Quan](/pantheons/the_unscathed) in Chadori temples.
+
+Despite being former slaves of the [Naderi Empire](/nations/naderi_empire), the Chadori do still hold some of their customs, though they will only acknowledge these customs being Naderi in origin grudgingly, such as never taking a seat with their back facing a door
