@@ -8,10 +8,7 @@ categories: [Races]
 
 {% include raceBlock.html name="Chadori" origin="Danaros" home="Liberation" nation="Chadori Republic" nationlink="/nations/chadori_republic" %}
 
-The Chadori are said to descend from dragons, though no definitive proof of this exists anywhere, as for the better part of the past millennium
-they have been slaves to the [Naderi Empire](/nations/naderi_empire). This all changed sixty-five years ago, in 1366 [IC](/general/calendar), when a group of slaves
-working in a shipyard managed to overpower their guards, steal a ship with a functioning [wakeportal](/items/wakeportal) and travel to [Eluneia](/locations/eluneia), where
-they settled on an island they named Liberation.
+The Chadori are said to descend from dragons, though no definitive proof of this exists anywhere, as for the better part of the past millennium they have been slaves to the [Naderi Empire](/nations/naderi_empire). This all changed sixty-five years ago, in 1366 [IC](/general/calendar), when a group of slaves working in a shipyard managed to overpower their guards, steal a ship with a functioning [wakeportal](/items/wakeportal) and travel to [Eluneia](/locations/eluneia), where they settled on an island they named Liberation.
 
 From there, they made excursions to free more of their people, eventually leading to a full scale rebellion against the
 Naderi Empire, that lasted until the outbreak of [the Unbinding](/history/the-unbinding). The Chadori forces retreated to their
