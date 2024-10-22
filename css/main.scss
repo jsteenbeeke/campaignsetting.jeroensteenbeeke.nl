@@ -1,17 +1,23 @@
 ---
 ---
 
-@import 'bootstrap/bootstrap';
+@import '../_sass/custom/custom';
 
 body {
-    background-image: url('/img/paper.jpg');
-    background-size: cover;
+  background-image: url('../img/paper.jpg');
+  background-size: cover;
 }
 
 .smallest {
-	font-size: 8pt;
+  font-size: 8pt;
 }
 
 td {
   padding: 5px;
+}
+
+a {
+  color: $primary !important;
+  font-weight: bold;
+  text-decoration: none;
 }

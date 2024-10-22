@@ -1,0 +1,14 @@
+@import "../bootstrap/_functions";
+@import "../bootstrap/_variables";
+
+$primary: #8d021f;
+
+// Create your own map
+$custom-colors: (
+        "primary": $primary
+);
+
+// Merge the maps
+$theme-colors: map-merge($theme-colors, $custom-colors);
+
+@import '../bootstrap/bootstrap';
