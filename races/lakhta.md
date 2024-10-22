@@ -6,7 +6,7 @@ indexed: true
 categories: [Races]
 ---
 
-{% include raceBlock.html name="Lakhta" origin="Danaros" home="Kruna" nation="Lakhta Hegemony" nationlink="/nations/laktha_hegemony" %}
+{% include raceBlock.html name="Lakhta" origin="Danaros" home="Velikaya" nation="Lakhta Hegemony" nationlink="/nations/laktha_hegemony" %}
 
 Laktha are pale-skinned humans originally from [Danaros](/locations/danaros), where they had a sizable kingdom with a
 large land-based army, but not much of a navy. Their ancestral lands were far removed from the origins of [the Unbinding](/history/the-unbinding),
