@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Wakeportal
+indexed: true
+categories: [ Magic Items ]
 ---
 A *wakeportal* is a magic item shaped like a crystal tear that allows a ship to shift planes with all its passengers
 and cargo. 
