@@ -7,8 +7,8 @@ categories: [ Pantheons ]
 
 The Watchers are a pantheon of gods worshipped by many of the races that are home to [Eluneia](/locations/eluneia). The gods in this pantheon are Gwydion, Ord, Dealas, Saigra, Kaelash and Vaedrung.
 
-| God                            | Typical worshippers                    | Domains                          | Symbol                                                                                                                                               |
-|--------------------------------|----------------------------------------|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| God                            | Typical worshippers                    | Domains                          | Symbol                                                                                                                                                       |
+|--------------------------------|----------------------------------------|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Gwydion, god of Prophecy       | Adar, Dvergi, Kalai, Warbloods         | Arcane, Knowledge, Trickery      | ![A winged fox](/pantheons/holy-symbols/gwydion.png){:width="100px"} <br />A winged fox                                                                      |
 | Ord, god of Thunder            | Belehain, M'to, Warbloods, Wavetouched | Tempest, War                     | ![A lightning bolt surrounded by more lightning](/pantheons/holy-symbols/ord.png){:width="100px"} <br />A lightning bolt surrounded by more lightning        |
 | Dealas, god of Reproduction    | Kalai, M'to, Warbloods                 | Life, Nature, Peace              | ![A boar hugging another boar](/pantheons/holy-symbols/dealas.png){:width="100px"} <br />A boar hugging another boar                                         |
