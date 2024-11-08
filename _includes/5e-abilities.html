@@ -1,0 +1,22 @@
+<table class="table">
+    <thead>
+        <tr>
+            <th>Str</th>
+            <th>Dex</th>
+            <th>Con</th>
+            <th>Int</th>
+            <th>Wis</th>
+            <th>Cha</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>{% if include.str >= 10 %}+{% endif %}{{ include.str | minus: 10 | divided_by: 2}}</strong><br />{{ include.str }}</td>
+            <td><strong>{% if include.dex >= 10 %}+{% endif %}{{ include.dex | minus: 10 | divided_by: 2}}</strong><br />{{ include.dex }}</td>
+            <td><strong>{% if include.con >= 10 %}+{% endif %}{{ include.con | minus: 10 | divided_by: 2}}</strong><br />{{ include.con }}</td>
+            <td><strong>{% if include.int >= 10 %}+{% endif %}{{ include.int | minus: 10 | divided_by: 2}}</strong><br />{{ include.int }}</td>
+            <td><strong>{% if include.wis >= 10 %}+{% endif %}{{ include.wis | minus: 10 | divided_by: 2}}</strong><br />{{ include.wis }}</td>
+            <td><strong>{% if include.cha >= 10 %}+{% endif %}{{ include.cha | minus: 10 | divided_by: 2}}</strong><br />{{ include.cha }}</td>
+        </tr>
+    </tbody>
+</table>
