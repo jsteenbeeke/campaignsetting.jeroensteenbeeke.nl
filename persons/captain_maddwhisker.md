@@ -5,7 +5,7 @@ indexed: true
 categories: [People]
 ---
 
-![Captain Fortuno 'Lucky' Maddwhisker(/persons/captain_maddwhisker.png){:width="500px"}
+![Captain Fortuno 'Lucky' Maddwhisker](/persons/captain_maddwhisker.png){:width="500px"}
 
 
 **Captain Fortuno Maddwhisker**, known by his friends as **Lucky**, is a sailor operating out of Sunwake, primarily involved with transporting passengers to locations outside of normal shipping lanes.
