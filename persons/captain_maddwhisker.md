@@ -10,7 +10,7 @@ categories: [People]
 
 **Captain Fortuno Maddwhisker**, known by his friends as **Lucky**, is a sailor operating out of Sunwake, primarily involved with transporting passengers to locations outside of normal shipping lanes.
 
-The sailors along the coast whisper that he has conversations with seagulls, names every barnacle on his ship's hull, and somehow manages to survive storms that sink much larger vessels.
+No sailors are willing to sail on his ship, and they whisper that he has conversations with seagulls, names every barnacle on his ship's hull, and somehow manages to survive storms that sink much larger vessels.
 
 His real first name is Edmund, but he insists that the sea spirits renamed him "Fortuno" during a particularly vivid hallucination involving a dancing octopus and a mermaid choir. He's been known to navigate by following what he claims are "star-fish constellations" living in his beard, yet somehow always arrives exactly where he needs to be.
 
