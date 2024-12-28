@@ -43,4 +43,5 @@ Dvergi follow the following rules:
 - **Dvergi resilience.** You have advantage on saving throws against poison, illusions and against being charmed or
   paralyzed. Additionally, you have resistance against poison damage
 - **Dvergi combat training.** You have proficiency with the battleaxe, handaxe, light hammer, and warhammer
+- Dvergi know [Dvergish](/general/languages) and [Turian](/general/languages)
 - Dvergi gain the [Child of Eluneia](/rules/child_of_eluneia) trait
