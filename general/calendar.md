@@ -41,6 +41,18 @@ The calendar currently in use by the various nations is the Eluneian Calendar, w
 | 11    | Minigië  | 30             |
 | 12    | Uiugië   | 30             |
 
+The days of the week are named as follows:
+
+| Day | Name     | Real world equivalent |
+|-----|----------|-----------------------|
+| 1   | Nethilor | Monday                |
+| 2   | Myraleth | Tuesday               |
+| 3   | Celenai  | Wednesday             |
+| 4   | Thaerand | Thursday              |
+| 5   | Syranor  | Friday                |
+| 6   | Vaelind  | Saturday              |
+| 7   | Iltharin | Sunday                |
+
 ### Date notation
 
 Dates on the Eluneian Calendar are generally written in the following form:
@@ -69,6 +81,18 @@ imperial calendar:
 | 11    | Undecima  | 28             |
 | 12    | Duodecima | 27             |
 
+The days of the week are named as follows:
+
+| Day | Name     | Real world equivalent |      
+|-----|----------|-----------------------|      
+| 1   | Solarius | Sunday                | 
+| 2   | Bellanus | Monday                |      
+| 3   | Mercator | Tuesday               |      
+| 4   | Imperius | Wednesday             |      
+| 5   | Victoris | Thursday              |      
+| 6   | Augurus  | Friday                |      
+| 7   | Terminus | Saturday              |      
+
 ### Date notation
 
 Dates on the Imperial Calendar are generally written in the following form:
@@ -81,6 +105,6 @@ So the 3rd day of Septima in the year 1233 would be: `Septima 3 IC 1233`
 
 | Eluneian Era     | Start date (Eluneia) | End date (Eluneia) | Start date (Danaros) | End date (Danaros) |
 |------------------|----------------------|--------------------|----------------------|--------------------|
-| Sethai Reckoning | 1st Mînalië SR 1     | 28 Lebenië SR 472  | Octavus 11 IC -218   | Septima 17 IC 263  | <!-- 168651 Eluneian days -->
-| Atan Reckoning   | 29 Lebenië AR 1      | 5 Tâderië AR 1143  | Septima 18 IC 263    | Octavus 3 IC 1476  | <!-- 407580 Eluneian days -->
-| New Reckoning    | 6 Tâderië NR 1       | -                  | Octavus 4 IC 1476    | -                  |
+| Sethai Reckoning | 1st Mînalië SR 1     | 28 Lebenië SR 472  | Octavus 13 IC -218   | Sextus 24 IC 284   |
+| Atan Reckoning   | 29 Lebenië AR 1      | 5 Tâderië AR 1143  | Sextus 25 IC 284     | Septima 10 IC 1497 |
+| New Reckoning    | 6 Tâderië NR 1       | -                  | Septima 11 IC 1497   | -                  |
