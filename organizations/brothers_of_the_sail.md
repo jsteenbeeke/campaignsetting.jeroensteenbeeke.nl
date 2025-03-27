@@ -4,6 +4,9 @@ title: Brothers of the Sail
 indexed: true
 categories: [Organizations]
 ---
+
+![Flag of the Brothers of the Sail](/img/flag-brothers-of-the-sail.png){:class="img-fluid"}
+
 Considered by the authorities of the various nations to be nothing more than pirates, the Brothers of the Sail are an
 anarchist organization seeking the abolishment of any form of government and the return to self-sufficiency. While some
 small groups of Brothers live in the inner islands, their larger communities exist well beyond the lands of the various
