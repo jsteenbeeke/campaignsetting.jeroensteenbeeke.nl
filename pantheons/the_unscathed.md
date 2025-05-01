@@ -31,7 +31,7 @@ This pantheon consists of Allindra, Belliom, Drazh, Jao Quan, Riaal and Xax.
                 of="goddess of Night" 
                 typicalWorshippers="Delvers, Mordhain, Naderi" 
                 domains="Death, Tempest, Twilight" 
-                symbolText="A veiled woman  " %}
+                symbolText="A veiled woman" %}
     {% include deityTableRow.html 
                 name="Belliom" of="god of Luck" 
                 typicalWorshippers="Companions, Erihain, Lakhta, Mordhain, Turians" 

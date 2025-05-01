@@ -7,4 +7,9 @@ parent: ../
 ---
 **Riaal** is the [Unscathed](../the_unscathed.html) **Goddess of the Glades**. 
 
-{% include deity.html name="Riaal" %}
+{% include deity.html 
+    name="Riaal"
+    typicalWorshippers="Erihain, Eriothi, Turians"
+    domains="Nature, Knowledge, Peace"
+    symbolText="A bear's paw"
+%}

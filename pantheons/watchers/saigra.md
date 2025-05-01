@@ -7,4 +7,9 @@ parent: ../
 ---
 **Saigra** is the [Watcher](../watchers.html) **Goddess of the Hunt**
 
-{% include deity.html name="Saigra" %}
+{% include deity.html 
+            name="Saigra"
+            typicalWorshippers="Adar, M'to"
+            domains="Light, Nature"
+            symbolText="An arrow piercing a heart"
+%}

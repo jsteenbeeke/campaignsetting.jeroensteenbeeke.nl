@@ -7,4 +7,8 @@ parent: ../
 ---
 **Kaelash** is the [Watcher](../watchers.html) **Goddess of Protection**.
 
-{% include deity.html name="Kaelash" %}
+{% include deity.html name="Kaelash"
+            typicalWorshippers="Adar, Kalai"
+            domains="Forge, Knowledge, Order"
+            symbolText="A burning anvil"
+%}

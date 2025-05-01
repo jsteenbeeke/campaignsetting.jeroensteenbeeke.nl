@@ -6,3 +6,37 @@
         <img src="/pantheons/holy-symbols/{{ include.name | downcase | replace : " ", "_" }}.png" alt="Holy symbol of {{ name }}" title="Holy symbol of {{ include.name }}" class="img-fluid" />
     </div>
 </div>
+{% if include.domains or include.symbolText or include.typicalWorshippers %}
+<div class="row">
+    <div class="col-12">
+       <table class="table w-100">
+           <thead>
+                <tr>
+                   {% if include.domains %}
+                    <th>Domains</th>
+                   {% endif %}
+                    {% if include.typicalWorshippers %}
+                    <th>Typical worshippers</th>
+                    {% endif %}
+                    {% if include.symbolText %}
+                    <th>Holy Symbol</th>
+                    {% endif %}
+                </tr>
+           </thead>
+           <tbody>
+            <tr>
+                {% if include.domains %}
+                <td>{{ include.domains }}</td>
+                {% endif %}
+                {% if include.typicalWorshippers %}
+                <td>{{ include.typicalWorshippers }}</td>
+                {% endif %}
+                {% if include.symbolText %}
+                <td>{{ include.symbolText }}</td>
+                {% endif %}
+            </tr>
+           </tbody>
+       </table>
+    </div>
+</div>
+{% endif %}
