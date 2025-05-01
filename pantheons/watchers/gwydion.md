@@ -8,7 +8,8 @@ parent: ../
 **Gwydion** is the [Watcher](../watchers.html) **God of Prophecy**.
 
 {% include deity.html 
-        name="Gwydion" 
+        name="Gwydion"
+        pantheon="Watchers"
         typicalWorshippers="Adar, Dvergi, Kalai, Warbloods"
         domains="Arcane, Knowledge, Trickery"
         symbolText="A winged fox" 

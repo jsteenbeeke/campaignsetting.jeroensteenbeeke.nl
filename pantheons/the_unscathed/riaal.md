@@ -9,6 +9,7 @@ parent: ../
 
 {% include deity.html 
     name="Riaal"
+    pantheon="Unscathed"
     typicalWorshippers="Erihain, Eriothi, Turians"
     domains="Nature, Knowledge, Peace"
     symbolText="A bear's paw"

@@ -6,15 +6,18 @@
         <img src="/pantheons/holy-symbols/{{ include.name | downcase | replace : " ", "_" }}.png" alt="Holy symbol of {{ name }}" title="Holy symbol of {{ include.name }}" class="img-fluid" />
     </div>
 </div>
-{% if include.domains or include.symbolText or include.typicalWorshippers %}
+{% if include.domains or include.symbolText or include.typicalWorshippers or include.pantheon %}
 <div class="row">
     <div class="col-12">
        <table class="table w-100">
            <thead>
                 <tr>
-                   {% if include.domains %}
+                    {% if include.pantheon %}
+                    <th>Pantheon</th>
+                    {% endif %}
+                    {% if include.domains %}
                     <th>Domains</th>
-                   {% endif %}
+                    {% endif %}
                     {% if include.typicalWorshippers %}
                     <th>Typical worshippers</th>
                     {% endif %}
@@ -25,6 +28,18 @@
            </thead>
            <tbody>
             <tr>
+                {% if include.pantheon %}
+                {% assign lowerPantheon = include.pantheon | downcase %}
+                {% case lowerPantheon %}
+                {% when 'unscathed' %}
+                {% assign resolvedPantheon = 'The Unscathed' %}
+                {% when 'fian chai' %}
+                {% assign resolvedPantheon = 'Fian Chai' %}
+                {% else %}
+                {% assign resolvedPantheon = 'The Watchers' %}
+                {% endcase %}
+                <td>{{ resolvedPantheon }}</td>
+                {% endif %}
                 {% if include.domains %}
                 <td>{{ include.domains }}</td>
                 {% endif %}

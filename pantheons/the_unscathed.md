@@ -27,37 +27,43 @@ This pantheon consists of Allindra, Belliom, Drazh, Jao Quan, Riaal and Xax.
     </thead>
     <tbody>
     {% include deityTableRow.html 
-                name="Allindra" 
-                of="goddess of Night" 
+                name="Allindra"
+                of="goddess of Night"
+                pantheon="Unscathed"
                 typicalWorshippers="Delvers, Mordhain, Naderi" 
                 domains="Death, Tempest, Twilight" 
                 symbolText="A veiled woman" %}
     {% include deityTableRow.html 
                 name="Belliom" of="god of Luck" 
+                pantheon="Unscathed"
                 typicalWorshippers="Companions, Erihain, Lakhta, Mordhain, Turians" 
                 domains="Life, Trickery" 
                 symbolText="Two (or more) rolling dice" %}
     {% include deityTableRow.html 
                 name="Drazh" 
                 of="goddess of the Hearth" 
+                pantheon="Unscathed"
                 typicalWorshippers="Stoneborn, Tinkers" 
                 domains="Knowledge, Light, Order"
                 symbolText="A burning fire" %}
     {% include deityTableRow.html 
                 name="Jao Quan"
                 of="god of Retribution"
+                pantheon="Unscathed"
                 typicalWorshippers="Chadori"
                 domains="Light, War"
                 symbolText="Two crossed hammers" %}
     {% include deityTableRow.html
                 name="Riaal"
                 of="goddess of the Glades" 
+                pantheon="Unscathed"
                 typicalWorshippers="Erihain, Eriothi, Turians" 
                 domains="Nature, Knowledge, Peace" 
                 symbolText="A bear's paw" %}
     {% include deityTableRow.html 
                 name="Xax"
                 of="god of Hate"
+                pantheon="Unscathed"
                 typicalWorshippers="Delvers, Lakhta, Mordhain"
                 domains="Death, Forge, Grave"
                 symbolText="A triskelion made of chains" %}

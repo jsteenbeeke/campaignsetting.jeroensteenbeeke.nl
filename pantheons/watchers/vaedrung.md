@@ -9,6 +9,7 @@ parent: ../
 
 {% include deity.html 
             name="Vaedrung"
+            pantheon="Watchers"
             typicalWorshippers="Dvergi, Warbloods"
             domains="Death, Grave, Trickery, Twilight"
             symbolText="The face of a screaming man turned upside down"

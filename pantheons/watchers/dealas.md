@@ -9,6 +9,7 @@ parent: ../
 
 {% include deity.html 
         name="Dealas"
+        pantheon="Watchers"
         typicalWorshippers="Kalai, M'to, Warbloods"
         domains="Life, Nature, Peace"
         symbolText="A boar hugging another boar"

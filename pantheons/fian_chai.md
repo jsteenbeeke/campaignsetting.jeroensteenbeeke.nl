@@ -18,9 +18,9 @@ the [Great Cataclysm](/history/great-cataclysm).
         </tr>
     </thead>
     <tbody>
-    {% include deityTableRow.html name="Khatar" of="god of War" domains="War, Grave" symbolText="A sword piercing the sun" %}
-    {% include deityTableRow.html name="Merindalla" of="goddess of Magic" domains="Arcane, Forge, Knowledge, Order" symbolText="An eight-pointed star" %}
-    {% include deityTableRow.html name="Javidia" of="goddess of Love" domains="Light, Peace, Trickery" symbolText="Two flowers" %}
-    {% include deityTableRow.html name="Felician" of="god of Storms" domains="Nature, Tempest, Twilight" symbolText="A leaping salmon" %}
+    {% include deityTableRow.html name="Khatar" of="god of War" domains="War, Grave" symbolText="A sword piercing the sun" pantheon="Fian Chai" %}
+    {% include deityTableRow.html name="Merindalla" of="goddess of Magic" domains="Arcane, Forge, Knowledge, Order" symbolText="An eight-pointed star" pantheon="Fian Chai" %}
+    {% include deityTableRow.html name="Javidia" of="goddess of Love" domains="Light, Peace, Trickery" symbolText="Two flowers" pantheon="Fian Chai" %}
+    {% include deityTableRow.html name="Felician" of="god of Storms" domains="Nature, Tempest, Twilight" symbolText="A leaping salmon" pantheon="Fian Chai" %}
     </tbody>
 </table>

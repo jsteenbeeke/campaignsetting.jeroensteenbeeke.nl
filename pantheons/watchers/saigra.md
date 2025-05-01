@@ -9,6 +9,7 @@ parent: ../
 
 {% include deity.html 
             name="Saigra"
+            pantheon="Watchers"
             typicalWorshippers="Adar, M'to"
             domains="Light, Nature"
             symbolText="An arrow piercing a heart"
