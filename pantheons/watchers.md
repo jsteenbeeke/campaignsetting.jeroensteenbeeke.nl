@@ -33,7 +33,7 @@ The Watchers are a pantheon of gods worshipped by many of the races that are hom
                 symbolText="A lightning bolt surrounded by more lightning" %}
     {% include deityTableRow.html 
                 name="Dealas" 
-                of="goddess of the Hunt" 
+                of="God of Reproduction" 
                 pantheon="Watchers"
                 typicalWorshippers="Kalai, M'to, Warbloods" 
                 domains="Life, Nature, Peace" 
