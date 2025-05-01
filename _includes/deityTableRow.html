@@ -1,0 +1,8 @@
+{% assign normalizedName = include.name | downcase | replace: " ", "_" %}
+<tr>
+    <td class="w-25 text-center"><a href="{{ normalizedName }}"><img src="{{ normalizedName }}.png" alt="{{ name }}" class="img-fluid" /></a><br />
+    <a href="{{ normalizedName }}">{{ include.name }}, {{ include.of }}</a></td>
+    {% if include.typicalWorshippers %}<td class="text-center">{{ include.typicalWorshippers }}</td>{% endif %}
+    <td class="text-center">{{ include.domains }}</td>
+    <td class="w-25 text-center"><img src="/pantheons/holy-symbols/{{ normalizedName }}.png" class="img-fluid" alt="{{ include.symbolText }}" title="{{ include.symbolText }}" /><br />{{ include.symbolText }}</td>
+</tr>

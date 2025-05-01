@@ -16,13 +16,50 @@ Danaros.
 
 This pantheon consists of Allindra, Belliom, Drazh, Jao Quan, Riaal and Xax.
 
-| God                                          | Typical worshippers                            | Domains                  | Symbol                                                                                                              | 
-|----------------------------------------------|------------------------------------------------|--------------------------|---------------------------------------------------------------------------------------------------------------------|
-| [Allindra, goddess of Night](allindra/)      | Delvers, Mordhain, Naderi                      | Death, Tempest, Twilight | ![A veiled woman](/pantheons/holy-symbols/allindra.png){:width="100px"} <br />A veiled woman                        |
-| [Belliom, god of Luck](belliom/)             | Companions, Erihain, Lakhta, Mordhain, Turians | Life, Trickery           | ![Two (or more) rolling dice](/pantheons/holy-symbols/belliom.png){:width="100px"} <br />Two (or more) rolling dice |
-| [Drazh, goddess of the Hearth](drazh/)       | Stoneborn, Tinkers                             | Knowledge, Light, Order  | ![A burning fire](/pantheons/holy-symbols/drazh.png){:width="100px"} <br />A burning fire                           |
-| [Jao Quan, god of Retribution](jao_quan/)    | Chadori                                        | Light, War               | ![Two crossed hammers](/pantheons/holy-symbols/jao_quan.png){:width="100px"} <br />Two crossed hammers              |
-| [Riaal, goddess of the Glades](riaal/)       | Erihain, Eriothi, Turians                      | Nature, Knowledge, Peace | ![A bear's paw](/pantheons/holy-symbols/riaal.png){:width="100px"} <br />A bear's paw                               |
-| [Xax, god of Hate](xax/)<sup>[1](#xax)</sup> | Delvers, Lakhta, Mordhain                      | Death, Forge, Grave      | ![A triskelion made of chains](/pantheons/holy-symbols/xax.png){:width="100px"} <br/> A triskelion made of chains   |
-
-<a name="xax">1</a>: Followers of Xax refer to him as the god of Passion instead.
+<table>
+    <thead>
+        <tr>
+            <th class="text-center">God</th>
+            <th class="text-center">Typical worshippers</th>
+            <th class="text-center">Domains</th>
+            <th class="text-center">Symbol</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% include deityTableRow.html 
+                name="Allindra" 
+                of="goddess of Night" 
+                typicalWorshippers="Delvers, Mordhain, Naderi" 
+                domains="Death, Tempest, Twilight" 
+                symbolText="A veiled woman  " %}
+    {% include deityTableRow.html 
+                name="Belliom" of="god of Luck" 
+                typicalWorshippers="Companions, Erihain, Lakhta, Mordhain, Turians" 
+                domains="Life, Trickery" 
+                symbolText="Two (or more) rolling dice" %}
+    {% include deityTableRow.html 
+                name="Drazh" 
+                of="goddess of the Hearth" 
+                typicalWorshippers="Stoneborn, Tinkers" 
+                domains="Knowledge, Light, Order"
+                symbolText="A burning fire" %}
+    {% include deityTableRow.html 
+                name="Jao Quan"
+                of="god of Retribution"
+                typicalWorshippers="Chadori"
+                domains="Light, War"
+                symbolText="Two crossed hammers" %}
+    {% include deityTableRow.html
+                name="Riaal"
+                of="goddess of the Glades" 
+                typicalWorshippers="Erihain, Eriothi, Turians" 
+                domains="Nature, Knowledge, Peace" 
+                symbolText="A bear's paw" %}
+    {% include deityTableRow.html 
+                name="Xax"
+                of="god of Hate"
+                typicalWorshippers="Delvers, Lakhta, Mordhain"
+                domains="Death, Forge, Grave"
+                symbolText="A triskelion made of chains" %}
+    </tbody>
+</table>

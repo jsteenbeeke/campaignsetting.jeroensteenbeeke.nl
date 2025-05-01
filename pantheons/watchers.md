@@ -7,12 +7,53 @@ categories: [ Pantheons ]
 
 The Watchers are a pantheon of gods worshipped by many of the races that are home to [Eluneia](/locations/eluneia), though they were originally worshipped by the M'to. The gods in this pantheon are Gwydion, Ord, Dealas, Saigra, Kaelash and Vaedrung. 
 
-| God                                        | Typical worshippers                    | Domains                          | Symbol                                                                                                                                                       |
-|--------------------------------------------|----------------------------------------|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Gwydion, god of Prophecy](gwydion/)       | Adar, Dvergi, Kalai, Warbloods         | Arcane, Knowledge, Trickery      | ![A winged fox](/pantheons/holy-symbols/gwydion.png){:width="100px"} <br />A winged fox                                                                      |
-| [Ord, god of Thunder](ord/)                | Belehain, M'to, Warbloods, Wavetouched | Tempest, War                     | ![A lightning bolt surrounded by more lightning](/pantheons/holy-symbols/ord.png){:width="100px"} <br />A lightning bolt surrounded by more lightning        |
-| [Dealas, god of Reproduction](dealas/)     | Kalai, M'to, Warbloods                 | Life, Nature, Peace              | ![A boar hugging another boar](/pantheons/holy-symbols/dealas.png){:width="100px"} <br />A boar hugging another boar                                         |
-| [Saigra, goddess of the Hunt](saigra/)     | Adar, M'to                             | Light, Nature                    | ![An arrow piercing a heart](/pantheons/holy-symbols/saigra.png){:width="100px"} <br />An arrow piercing a heart                                             |
-| [Kaelash, goddess of Protection](kaelash/) | Adar, Kalai                            | Forge, Knowledge, Order          | ![A burning anvil](/pantheons/holy-symbols/kaelash.png){:width="100px"}<br />A burning anvil                                                                 |
-| [Vaedrung, goddess of Deceit](vaedrung/)   | Dvergi, Warbloods                      | Death, Grave, Trickery, Twilight | ![The face of a screaming man turned upside down](/pantheons/holy-symbols/vaedrung.png){:width="100px"} <br />The face of a screaming man turned upside down | 
+<table>
+    <thead>
+        <tr>
+            <th class="text-center">God</th>
+            <th class="text-center">Typical worshippers</th>
+            <th class="text-center">Domains</th>
+            <th class="text-center">Symbol</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% include deityTableRow.html 
+                name="Gwydion" 
+                of="god of Prophecy" 
+                typicalWorshippers="Adar, Dvergi, Kalai, Warbloods" 
+                domains="Arcane, Knowledge, Trickery" 
+                symbolText="A winged fox" %}
+    {% include deityTableRow.html 
+                name="Ord" 
+                of="god of Thunder" 
+                typicalWorshippers="Belehain, M'to, Warbloods, Wavetouched" 
+                domains="Tempest, War" 
+                symbolText="A lightning bolt surrounded by more lightning" %}
+    {% include deityTableRow.html 
+                name="Dealas" 
+                of="goddess of the Hunt" 
+                typicalWorshippers="Kalai, M'to, Warbloods" 
+                domains="Life, Nature, Peace" 
+                symbolText="A boar hugging another boar" %}
+    {% include deityTableRow.html 
+                name="Saigra" 
+                of="goddess of the Hunt" 
+                typicalWorshippers="Adar, M'to" 
+                domains="Light, Nature" 
+                symbolText="An arrow piercing a heart" %}
+    {% include deityTableRow.html 
+                name="Kaelash" 
+                of="goddess of Protection" 
+                typicalWorshippers="Adar, Kalai" 
+                domains="Forge, Knowledge, Order" 
+                symbolText="A burning anvil" %}
+    {% include deityTableRow.html 
+                name="Vaedrung" 
+                of="goddess of Deceit" 
+                typicalWorshippers="Dvergi, Warbloods" 
+                domains="Death, Grave, Trickery, Twilight" 
+                symbolText="The face of a screaming man turned upside down" %}
+
+    </tbody>
+</table>
 

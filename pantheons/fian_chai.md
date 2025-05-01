@@ -9,9 +9,18 @@ The Fian Chai is a pantheon of Gods worshipped by the [Sethai](/races/sethai) an
 pantheon that used to be larger, but many of its lesser gods perished in
 the [Great Cataclysm](/history/great-cataclysm).
 
-| God                                         | Domains                         | Symbol                                                                                                         |
-|---------------------------------------------|---------------------------------|----------------------------------------------------------------------------------------------------------------|
-| [Khatar, god of War](khatar/)               | War, Grave                      | ![A sword piercing the sun](/pantheons/holy-symbols/khatar.png){:width="100px"} <br />A sword piercing the sun |
-| [Merindalla, goddess of Magic](merindalla/) | Arcane, Forge, Knowledge, Order | ![An eight-pointed star](/pantheons/holy-symbols/merindalla.png){:width="100px"} <br />An eight-pointed star   |
-| [Javidia, goddess of Love](javidia/)        | Light, Peace, Trickery          | ![Two flowers](/pantheons/holy-symbols/javidia.png){:width="100px"} <br />Two flowers                          |
-| [Felician, god of Storms](felician/)        | Nature, Tempest, Twilight       | ![A leaping salmon](/pantheons/holy-symbols/felician.png){:width="100px"} <br />A leaping salmon               |
+<table>
+    <thead>
+        <tr>
+            <th class="text-center">God</th>
+            <th class="text-center">Domains</th>
+            <th class="text-center">Symbol</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% include deityTableRow.html name="Khatar" of="god of War" domains="War, Grave" symbolText="A sword piercing the sun" %}
+    {% include deityTableRow.html name="Merindalla" of="goddess of Magic" domains="Arcane, Forge, Knowledge, Order" symbolText="An eight-pointed star" %}
+    {% include deityTableRow.html name="Javidia" of="goddess of Love" domains="Light, Peace, Trickery" symbolText="Two flowers" %}
+    {% include deityTableRow.html name="Felician" of="god of Storms" domains="Nature, Tempest, Twilight" symbolText="A leaping salmon" %}
+    </tbody>
+</table>
