@@ -1,0 +1,8 @@
+<div class="row">
+    <div class="col-6">
+        <img src="../{{ include.name | downcase | replace: " ", "_" }}.png" alt="{{ name }}" title="{{ name }}" class="img-fluid"/>
+    </div>
+    <div class="col-6">
+        <img src="/pantheons/holy-symbols/{{ include.name | downcase | replace : " ", "_" }}.png" alt="Holy symbol of {{ name }}" title="Holy symbol of {{ include.name }}" class="img-fluid" />
+    </div>
+</div>

@@ -21,7 +21,7 @@ readily make use of slave labor, though only the [Delvers](/races/delvers) are e
 
 ## Religion
 
-Lakhta typically worship [Xax](/pantheons/the_unscathed), though there are also many worshippers of [Belliom](/pantheons/the_unscathed) among them.
+Lakhta typically worship [Xax](/pantheons/the_unscathed/xax), though there are also many worshippers of [Belliom](/pantheons/the_unscathed/belliom) among them.
 
 ## Rules
 

@@ -12,7 +12,7 @@ Delvers are a lean and dark-skinned folk that are primarily found in the [Lakhta
 
 ## Religion
 
-Delvers generally worship [Allindra](/pantheons/the_unscathed), though those living as slaves in the Lakhta Hegemony will go through the motions of paying homage to [Xax](/pantheons/the_unscathed) for the benefit of their Lakhta overlords.
+Delvers generally worship [Allindra](/pantheons/the_unscathed/allindra), though those living as slaves in the Lakhta Hegemony will go through the motions of paying homage to [Xax](/pantheons/the_unscathed) for the benefit of their Lakhta overlords.
 
 ## Rules
 

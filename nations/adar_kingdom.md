@@ -51,7 +51,7 @@ Adar living in coastal settlements are known as "Coastal Adar", and are generall
 
 Religion forms an important part of Adar life, and many temples to [Gwydion, Saigra and Kaelash](/pantheons/watchers) can be found throughout their lands, and many families follow a tradition of having their third child join the clergy of one of these gods.
 
-Arcane magic is uncommon among the Adar, though the island of Darkana does feature a school of wizardry, whose members enjoy great respect. Sorcerers are rare and generally unwelcome, and it is not unknown for children exhibiting sorcerous aspects to be banned from Island Adar settlements. These Adar often end up as adventurers beyond Adar lands. Warlocks are treated similarly.
+Arcane magic is uncommon among the Adar, though the island of Darkana does feature a school of wizardry, whose members enjoy great respect. Sorcerers are rare and generally unwelcome, and it is not unknown for children exhibiting sorcerous aspects to be banned from Inland Adar settlements. These Adar often end up as adventurers beyond Adar lands. Warlocks are treated similarly.
 
 Adar who feel constrained by the strictness of their society often end up adventuring outside of the kingdom. Those with musical talent sometimes end up as bards, a position that enjoys great respect among Inland Adar, seen as those safeguarding history.
 

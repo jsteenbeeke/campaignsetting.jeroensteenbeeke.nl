@@ -29,7 +29,7 @@ The islands inhabited by the Coalition are not especially resource rich. While t
 
 The Coalition of Free Peoples is ruled by a council composed of thirteen members: two from each race (Erihain are not considered a separate race in this regard and can occupy both Turian and Eriothi seats), and one leader called the First Speaker, who is chosen by the other twelve members. In addition to this, a parliament of 37 members (seats divided by estimates of total population of each member races) has legislative power. The laws of the Coalition initially followed established Turian legal practices, though the diversity of the Coalition has caused a significant number of changes to these laws.
  
-Judiciary power currently rests with the clergy of [Riaal](/pantheons/the_unscathed) until a more permanent solution can be found, as the old Turian system did not have a division of power. 
+Judiciary power currently rests with the clergy of [Riaal](/pantheons/the_unscathed/riaal/) until a more permanent solution can be found, as the old Turian system did not have a division of power. 
 
 The current First Speaker is [Luyim Sandor](/persons/luyim_sandor).
 
