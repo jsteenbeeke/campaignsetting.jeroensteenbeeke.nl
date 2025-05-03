@@ -1,0 +1,50 @@
+.hex-container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  z-index: 1;
+  margin: 2rem auto;
+}
+
+.hex-row {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.hex-row:nth-child(odd) {
+  margin-left: 0px; /* Offset half width for staggered row */
+}
+
+.hex-tile {
+  width: 512px;
+  height: 392px;
+  clip-path: polygon(
+                  25% 0%,
+                  75% 0%,
+                  100% 50%,
+                  75% 100%,
+                  25% 100%,
+                  0% 50%
+  );
+  overflow: hidden;
+  margin: -96px 0 -96px -112px; /* Adjust vertical spacing */
+  flex-shrink: 0;
+  position: relative;
+}
+
+.hex-tile img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* Optional: Fix overlaps from adjacent content */
+.page-wrapper {
+  position: relative;
+  z-index: 0;
+  padding-top: 50px;
+  padding-bottom: 100px; /* or whatever vertical space you need */
+}

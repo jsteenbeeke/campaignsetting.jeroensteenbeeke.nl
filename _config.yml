@@ -5,7 +5,7 @@ author:
 description:
 url:
 
-category-list: [ General, Rules, Nations, Races, Locations, History, Pantheons, Organizations, People, Magic Items, Creatures ]
+category-list: [ General, Maps, Rules, Nations, Races, Locations, History, Pantheons, Organizations, People, Magic Items, Creatures ]
 
 # Build settings
 permalink: :title/
