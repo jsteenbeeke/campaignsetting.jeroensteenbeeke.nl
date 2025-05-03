@@ -9,27 +9,27 @@ categories: [Maps]
     <div class="hex-container">
         <div class="hex-row">
             <div class="hex-tile"></div>
-            <div class="hex-tile"><a href="../0-1--1-winters-edge.png"><img src="../0-1--1-winters-edge.png" alt="Winter's Edge" title="Winter's Edge" /></a></div>
+            <div class="hex-tile">{% include maplink.html src="../0-1--1-winters-edge.png" title="Winter's Edge" %}</div>
             <div class="hex-tile"></div>
         </div>
         <div class="hex-row">
-            <div class="hex-tile"><a href="../-1-1-0-chaderi-republic-naderi-empire.png"><img src="../-1-1-0-chaderi-republic-naderi-empire.png" alt="Chadori Republic, Naderi Empire" title="Chadori Republic, Naderi Empire" /></a></div>
+            <div class="hex-tile">{% include maplink.html src="../-1-1-0-chaderi-republic-naderi-empire.png" title="Chadori Republic, Naderi Empire" %}</div>
             <div class="hex-tile"></div>
-            <div class="hex-tile"><a href="../1-0--1-lakhta-hegemony.png"><img src="../1-0--1-lakhta-hegemony.png" alt="Lakhta Hegemony" title="Lakhta Hegemony"/></a></div>
+            <div class="hex-tile">{% include maplink.html src="../1-0--1-lakhta-hegemony.png" title="Lakhta Hegemony" %}</div>
         </div>
         <div class="hex-row">
             <div class="hex-tile"></div>
-            <div class="hex-tile"><a href="../0-0-0-tower-island-adar-kingdom.png"><img src="../0-0-0-tower-island-adar-kingdom.png" alt="Tower Island, Adar Kingdom" title="Tower Island, Adar Kingdom" /></a></div>
+            <div class="hex-tile">{% include maplink.html src="../0-0-0-tower-island-adar-kingdom.png" title="Tower Island, Adar Kingdom" %}</div>
             <div class="hex-tile"></div>
         </div>
         <div class="hex-row">
-            <div class="hex-tile"><a href="../-1-0-1-sethai-federation.png"><img src="../-1-0-1-sethai-federation.png" alt="Sethai Federation" title="Sethai Federation" /></a></div>
+            <div class="hex-tile">{% include maplink.html src="../-1-0-1-sethai-federation.png" title="Sethai Federation" %}</div>
             <div class="hex-tile"></div>
-            <div class="hex-tile"><a href="../1--1-0-coalition-of-free-peoples.png"><img src="../1--1-0-coalition-of-free-peoples.png" alt="Coalition of Free Peoples" /></a></div>
+            <div class="hex-tile">{% include maplink.html src="../1--1-0-coalition-of-free-peoples.png" title="Coalition of Free Peoples" %}</div>
         </div>
         <div class="hex-row">
             <div class="hex-tile"></div>
-            <div class="hex-tile"><a href="../0--1-1-northern-badlands.png"><img src="../0--1-1-northern-badlands.png" alt="Northern Badlands" title="Northern Badlands" /></a></div>
+            <div class="hex-tile">{% include maplink.html src="../0--1-1-northern-badlands.png" title="Northern Badlands" %}</div>
             <div class="hex-tile"></div>
         </div>
     </div>
