@@ -1,25 +1,20 @@
-.hex-container {
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  z-index: 1;
-  margin: 2rem auto;
+:root {
+  --hex-width: 512px;
+  --hex-height: 384px;
+  --hex-horiz: 384px; /* 512 * 0.75 */
+  --hex-vert: 192px;  /* 384 / 2 */
 }
 
-.hex-row {
-  display: flex;
-  justify-content: center;
+.hex-grid {
   position: relative;
-}
-
-.hex-row:nth-child(odd) {
-  margin-left: 0px; /* Offset half width for staggered row */
+  width: calc(var(--hex-width) * 3);
+  height: calc(var(--hex-height) * 3);
+  margin: 4rem auto;
 }
 
 .hex-tile {
-  width: 512px;
-  height: 392px;
+  width: var(--hex-width);
+  height: var(--hex-height);
   clip-path: polygon(
                   25% 0%,
                   75% 0%,
@@ -29,22 +24,27 @@
                   0% 50%
   );
   overflow: hidden;
-  margin: -96px 0 -96px -112px; /* Adjust vertical spacing */
-  flex-shrink: 0;
-  position: relative;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .hex-tile img {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  display: block;
 }
 
-/* Optional: Fix overlaps from adjacent content */
-.page-wrapper {
-  position: relative;
-  z-index: 0;
-  padding-top: 50px;
-  padding-bottom: 100px; /* or whatever vertical space you need */
-}
+/* Positioning classes relative to center */
+
+.hex-center       { transform: translate(-50%, -50%); }
+
+.hex-north        { transform: translate(-50%, calc(-50% - var(--hex-height))); }
+.hex-south        { transform: translate(-50%, calc(-50% + var(--hex-height))); }
+
+.hex-north-east   { transform: translate(calc(-50% + var(--hex-horiz)), calc(-50% - var(--hex-vert))); }
+.hex-south-east   { transform: translate(calc(-50% + var(--hex-horiz)), calc(-50% + var(--hex-vert))); }
+
+.hex-north-west   { transform: translate(calc(-50% - var(--hex-horiz)), calc(-50% - var(--hex-vert))); }
+.hex-south-west   { transform: translate(calc(-50% - var(--hex-horiz)), calc(-50% + var(--hex-vert))); }
