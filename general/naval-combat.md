@@ -41,6 +41,7 @@ Rather than using a grid with exact positions, naval combat uses a distance trac
 
 At the end of each turn, the movement speeds of both ships are compared:
 
+{:class="table"}
 | Speed difference                                | Movement effect                              |
 |-------------------------------------------------|----------------------------------------------|
 | Target ship > Chasing ship (factor 2 or more)   | Target ship moves two positions to the right |
@@ -53,6 +54,7 @@ At the end of each turn, the movement speeds of both ships are compared:
 
 A ship is run by its officers. These officers can be both PCs and NPCs. A ship can have the following officers:
 
+{:class="table"}
 | Officer       | Task                                                                                             | Relevant stats         |
 |---------------|--------------------------------------------------------------------------------------------------|------------------------|
 | Captain       | Leads the ship, manages its operation                                                            | Wisdom, Charisma       |
@@ -70,6 +72,7 @@ On each turn, a player can take actions as they normally would, and if they have
 
 ### Orders
 
+{:class="table"}
 | Order                     | Type     | Issued by             | Effect                                                                                                                                                                                                               |
 |---------------------------|----------|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Fire!                     | Attack   | Any officer           | All weapons that belong to a single weapon component fire on the target vessel, targeting their hull                                                                                                                 |
@@ -144,6 +147,7 @@ On each turn, a player can take actions as they normally would, and if they have
 
 Once two ships have reached 0 distance on the tracker, boarding combat can begin. The ships are now very close, and the following orders become available for the most senior officer remaining:
 
+{:class="table"}
 | Order            | Effect                                                                                                                                                                       |
 |------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Board            | Attackers can make DC12 Crew Quality check to leap to other ship. PCs can use DC12 Acrobatics for the same purpose. No combat on failure                                     |
