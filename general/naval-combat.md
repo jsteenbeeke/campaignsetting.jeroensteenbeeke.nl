@@ -14,6 +14,26 @@ There are two types of naval combat described in the rules:
 
 Boarding is essentially the same as regular combat, with a few additions, so most of this page will focus on Chase Combat.
 
+## Ship statistics
+
+Each ship has its own statistics that are used in various situations including combat. I will briefly list them here as they referenced in various rules, but for the full explanation please refer to the Complete Guide.
+
+| Statistic         | Use                                                                                                                       |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------|
+| Crew capacity     | Determines the number of crewmembers a ship can have. Stat blocks typically list a starting number and a maximum capacity |
+| Crew quality (CQ) | Represents the training and experience of the crew. Used as a modifier in many checks                                     |
+| Cargo capacity    | How much cargo a ship can carry                                                                                           |
+| Ship size (SZ)    | A modifier that represents the size of the ship, and is used in various checks to modify the DC                           |
+| Travel pace       | The number of miles the ship crosses in a typical day of sailing                                                          |
+| Strength          | How much strength a ship has as a result of its movement / propulsion                                                     |
+| Dexterity         | The ship's maneuverability                                                                                                |
+| Constitution      | Structural soundness of the ship                                                                                          |
+| Charisma          | Visual impact of the ship to observers. High charisma represents extreme beauty or extreme horror                         |
+| Stores            | Ship resources. Categories include: food, drink, medical, supplies, and various sorts of ammo                             |
+| Replacement cost  | The cost to replace a store                                                                                               |
+| Salaries          | How much the crew  needs to be paid (total)                                                                               |
+| Orders            | How many orders the crew can execute in a single turn                                                                     |
+
 ## Chase combat
 
 Chase combat is what happens when a hostile ship comes within range (within 800ft for regular ships, 200ft when underwater) of its quarry. Chase combat can end in a number of ways:
@@ -72,16 +92,9 @@ On each turn, a player can take actions as they normally would, and if they have
 
 ### Orders
 
-Officers can make the following orders for the crew to complete. Not all of these orders are combat-related. This table uses the following acronyms:
+Officers can make the following orders for the crew to complete. Not all of these orders are combat-related. 
 
 {:class="table"}
-| Acronym | Meaning      |
-|---------|--------------|
-| CQ      | Crew quality |
-| SZ      | Ship size    |
-
-{:class="table"}
-
 | Order                     | Type     | Issued by                       | Effect                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |---------------------------|----------|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Fire!                     | Attack   | Any officer                     | All weapons that belong to a single weapon component fire on the target vessel, targeting their hull                                                                                                                                                                                                                                                                                                                                                                            |
