@@ -15,16 +15,16 @@ indexed: false
 
 
   <div class="row">
-	{% for cat in site.category-list %}
+	{% for cat in site.data.categoryList %}
 	<div class="col-md-4">
   
-		<h2>{{ cat }}</h2>
+		<h2>{{ cat.key }}</h2>
 
 		<ul>
 			{% for page in site.pages %}
 				{% if page.indexed %}
 					{% for pc in page.categories %}
-						{% if pc == cat %}
+						{% if pc == cat.key %}
 						<li><a href="{{ page.url }}">{{ page.title }}</a> {%if page.fifth-equiv %}<span class="smallest">({{ page.fifth-equiv }})</span> {%endif %}</li>
 						{% endif %}
 					{% endfor %}
