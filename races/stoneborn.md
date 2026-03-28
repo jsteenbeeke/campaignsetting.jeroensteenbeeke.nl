@@ -6,7 +6,7 @@ indexed: true
 categories: [Races]
 ---
 
-{% include raceBlock.html name="Stoneborn" origin="Danaros" home="Sunwake" nation="Coalition of Free Peoples" nationlink="/nations/coalition_of_free_peoples" %}
+{% include raceBlock.html name="Stoneborn" img="stoneborn.png" origin="Danaros" home="Sunwake" nation="Coalition of Free Peoples" nationlink="/nations/coalition_of_free_peoples" %}
 
 The Stoneborn are a dying race, with less than a thousand of their people having survived [the Unbinding](/history/the-unbinding), due
 to the afflication starting in one of their largest settlements and spreading to most of their ancestral lands before its

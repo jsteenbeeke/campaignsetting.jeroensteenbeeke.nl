@@ -8,23 +8,17 @@ categories: [ Races ]
 
 {% include raceBlock.html 
   name="Dvergi" 
+  img="dvergi.png"
   origin="Eluneia" 
   home="Tulivar" 
   nation="Northborn Alliance" 
   nationlink="/nations/northborn_alliance" %}
 
-The Dvergi are a race of small and dark-skinned folk that evolved underground, but relocated to the surface after many
-of
-their settlements got flooded during the [Great Cataclysm](/history/great-cataclysm).
+The Dvergi are a race of small and ashen-skinned folk that evolved underground, but relocated to the surface after many of their settlements got flooded during the [Great Cataclysm](/history/great-cataclysm).
 
-Dvergi are traditionalists, though they are known among other races primarily for their idiosyncrasy, their capacity for
-self-mockery and their
-strange sense of humor.
+Dvergi are traditionalists, though they are known among other races primarily for their idiosyncrasy, their capacity for self-mockery and their strange sense of humor.
 
-Dvergi are about as tall as [Adar](./adar) and [Stoneborn](./stoneborn) though they are somewhat less stout and have
-pointy ears. Dvergi
-generally have gray or white hair, and tend to keep it short. Facial hair is limited to males, and they favor short
-beards.
+Dvergi are about as tall as [Adar](./adar) and [Stoneborn](./stoneborn) though they are somewhat less stout and only the males have hair. Dvergi females are bald.
 
 ## Religion
 

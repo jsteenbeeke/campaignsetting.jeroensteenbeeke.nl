@@ -6,7 +6,7 @@ indexed: true
 categories: [Races]
 ---
 
-{% include raceBlock.html name="Erihain" origin="Danaros" home="Sunwake" nation="Coalition of Free Peoples" nationlink="/nations/coalition_of_free_peoples" %}
+{% include raceBlock.html name="Erihain" img="erihain.png" origin="Danaros" home="Sunwake" nation="Coalition of Free Peoples" nationlink="/nations/coalition_of_free_peoples" %}
 
 Erihain are children born out of unions between [Eriothi](/races/eriothi) and either [Turians](/races/turians) or [Lakhta](/races/lakhta), though the latter is
 far less common.

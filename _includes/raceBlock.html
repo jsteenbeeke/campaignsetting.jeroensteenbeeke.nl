@@ -5,6 +5,11 @@
 		</tr>
 	</thead>
 	<tbody>
+        {% if include.img %}
+        <tr>
+            <td colspan="2"><img class="img-fluid" src="/races/{{ include.img }}" alt="{{ include.name }}" /></td>
+        </tr>
+        {% endif %}
 		{% if include.origin %}
 		<tr>
 			<th scope="row">World of origin</th>

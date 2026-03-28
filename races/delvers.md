@@ -6,7 +6,7 @@ indexed: true
 categories: [Races]
 ---
 
-{% include raceBlock.html name="Delvers" origin="Danaros" home="Kruna" nation="Lakhta Hegemony" nationlink="/nations/laktha_hegemony" %}
+{% include raceBlock.html name="Delvers" img="delver.png" origin="Danaros" home="Kruna" nation="Lakhta Hegemony" nationlink="/nations/laktha_hegemony" %}
 
 Delvers are a lean and dark-skinned folk that are primarily found in the [Lakhta Hegemony](/races/delvers), where they live as slaves to the [Lakhta](/races/lakhta), though some live in the [Naderi Empire](/nations/naderi_empire). While it is suspected they are related to the [Tinkers](/races/tinkers) in some way, there is no way to verify this.
 

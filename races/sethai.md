@@ -6,7 +6,7 @@ indexed: true
 categories: [Races]
 ---
 
-{% include raceBlock.html name="Sethai" origin="Eluneia" home="Talias" nation="Sethai Federation" nationlink="/nations/sethai_federation" %}
+{% include raceBlock.html name="Sethai" img="sethai.png" origin="Eluneia" home="Talias" nation="Sethai Federation" nationlink="/nations/sethai_federation" %}
 
 The Sethai are an ancient people native to Eluneia, whose [nation](/nations/sethai_federation) predates the [Great Cataclysm](/history/great-cataclysm)
 by a significant margin. Despite their age, their population levels have only restored to pre-cataclysm levels in recent years.

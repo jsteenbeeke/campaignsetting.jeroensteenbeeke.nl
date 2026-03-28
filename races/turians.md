@@ -6,7 +6,7 @@ indexed: true
 categories: [Races]
 ---
 
-{% include raceBlock.html name="Turians" origin="Danaros" home="Sunwake" nation="Coalition of Free Peoples" nationlink="/nations/coalition_of_free_peoples" %}
+{% include raceBlock.html name="Turians" img="turian.png" origin="Danaros" home="Sunwake" nation="Coalition of Free Peoples" nationlink="/nations/coalition_of_free_peoples" %}
 
 Turians are the most numerous race of humans from [Danaros](/locations/danaros), and come in many shapes and sizes. The fairest
 among them are almost as pale as the [Lakhta](/races/lakhta), while some are olive-skinned or even bronze, though not nearly

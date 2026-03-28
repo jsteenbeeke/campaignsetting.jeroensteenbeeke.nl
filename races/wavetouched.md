@@ -6,7 +6,7 @@ indexed: true
 categories: [Races]
 ---
 
-{% include raceBlock.html name="Wavetouched" origin="Eluneia" nation="The Third Wave" nationlink="/nations/third_wave" %}
+{% include raceBlock.html name="Wavetouched" img="wavetouched.png" origin="Eluneia" nation="The Third Wave" nationlink="/nations/third_wave" %}
 
 When the [Great Cataclysm](/history/great-cataclysm) drowned the world of [Eluneia](/locations/eluneia), its effects were
 not limited to simple flooding. The cataclysm was accompanied by a huge influx of elemental energy, which transformed the denizens of

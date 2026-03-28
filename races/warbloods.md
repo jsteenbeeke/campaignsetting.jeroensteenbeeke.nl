@@ -6,7 +6,7 @@ indexed: true
 categories: [Races]
 ---
 
-{% include raceBlock.html name="Warbloods" origin="Eluneia" home="Forsworn" nation="Northborn Alliance" nationlink="/nations/northborn_alliance" %}
+{% include raceBlock.html name="Warbloods" img="warblood.png" origin="Eluneia" home="Forsworn" nation="Northborn Alliance" nationlink="/nations/northborn_alliance" %}
 
 No one knows the exact origins of the Warbloods, though it is widely accepted that what once were two people is now one. It is said
 that Warbloods have both Orcish and human ancestors, though with the color of their skin ranging from olive and bronze to greenish

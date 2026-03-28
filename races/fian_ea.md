@@ -6,7 +6,7 @@ indexed: true
 categories: [Races]
 ---
 
-{% include raceBlock.html name="Fian Ea" origin="Eluneia" home="Talias" nation="Sethai Federation" nationlink="/nations/sethai_federation" %}
+{% include raceBlock.html name="Fian Ea" img="fian_ea.png" origin="Eluneia" home="Talias" nation="Sethai Federation" nationlink="/nations/sethai_federation" %}
 
 To the untrained eye, the Fian Ea look just like [Sethai](/races/sethai): tall, hairless, spots marking what would in other
  species be their hairlines. Upon closer examination, however, even a casual observer would notice the slightly bluish 

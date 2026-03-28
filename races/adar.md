@@ -6,7 +6,7 @@ indexed: true
 categories: [Races]
 ---
 
-{% include raceBlock.html name="Adar" origin="Eluneia" home="Darkama" nation="Adar Kingdom" nationlink="/nations/adar_kingdom" %}
+{% include raceBlock.html name="Adar" img="adar.png" origin="Eluneia" home="Darkama" nation="Adar Kingdom" nationlink="/nations/adar_kingdom" %}
 
 The Adar, or "people of the hills", as they call themselves, are an ancient people, and the second most populous of the races
 that survived the [Great Cataclysm](/history/great-cataclysm). People from Danaros often mistake them for [Stoneborn](/races/stoneborn)—

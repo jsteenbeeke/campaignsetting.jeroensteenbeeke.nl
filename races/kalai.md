@@ -6,7 +6,7 @@ indexed: true
 categories: [Races]
 ---
 
-{% include raceBlock.html name="Kalai" origin="Eluneia" home="Tranquility" nation="Northborn Alliance" nationlink="/nations/northborn_alliance" %}
+{% include raceBlock.html name="Kalai" img="kalai.png" origin="Eluneia" home="Tranquility" nation="Northborn Alliance" nationlink="/nations/northborn_alliance" %}
 
 Kalai are a short, kindly looking, and seemingly shy folk. They do not often venture beyond their lands, and tend to stay
 in their forest homes. They resemble [Tinkers](/races/tinkers) to some degree, but they have vastly different customs,

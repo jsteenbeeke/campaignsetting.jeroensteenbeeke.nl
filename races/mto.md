@@ -6,7 +6,7 @@ indexed: true
 categories: [Races]
 ---
 
-{% include raceBlock.html name="M'to" origin="Eluneia" home="Nyumbani" nation="Northborn Alliance" nationlink="/nations/northborn_alliance" %}
+{% include raceBlock.html name="M'to" img="mto.png" origin="Eluneia" home="Nyumbani" nation="Northborn Alliance" nationlink="/nations/northborn_alliance" %}
 
 In comparison to other humans, the M'to stand out. They are dark-skinned, and live in tribal societies that are considered
 primitive by most other civilizations. Despite this reputation, however, the M'to are skilled craftsmen, and expert builders

@@ -6,7 +6,7 @@ indexed: true
 categories: [Races]
 ---
 
-{% include raceBlock.html name="Mordhain" origin="Danaros" home="Sunwake" nation="Coalition of Free Peoples" nationlink="/nations/coalition_of_free_peoples" %}
+{% include raceBlock.html name="Mordhain" img="mordhain.png" origin="Danaros" home="Sunwake" nation="Coalition of Free Peoples" nationlink="/nations/coalition_of_free_peoples" %}
 
 No one knows the true origin of the Mordhain, though it is agreed by scholars that at some point in their past, the humans of
 the nation of Mordha on [Danaros](/locations/danaros) made a pact with an greater fiend, resulting in their altered visage.

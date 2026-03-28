@@ -6,7 +6,7 @@ indexed: true
 categories: [Races]
 ---
 
-{% include raceBlock.html name="Eriothi" origin="Danaros" home="Sunwake" nation="Coalition of Free Peoples" nationlink="/nations/coalition_of_free_peoples" %}
+{% include raceBlock.html name="Eriothi" img="eriothi.png" origin="Danaros" home="Sunwake" nation="Coalition of Free Peoples" nationlink="/nations/coalition_of_free_peoples" %}
 
 The Eriothi are a people that were for a long time considered to be myth, as they made their home deep inside the woods of Danaros, and rarely ventured outside. They had
 some contact with both the [Companions](/races/companions) and the [Tinkers](/races/tinkers), but tales of their existence from either were at first dismissed as simple stories.

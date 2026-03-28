@@ -6,7 +6,7 @@ indexed: true
 categories: [Races]
 ---
 
-{% include raceBlock.html name="Naderi" origin="Danaros" home="Splendor" nation="Naderi Empire" nationlink="/nations/naderi_empire" %}
+{% include raceBlock.html name="Naderi" img="naderi.png" origin="Danaros" home="Splendor" nation="Naderi Empire" nationlink="/nations/naderi_empire" %}
 
 Once thought to have been a race dwelling underground—a theory they themselves find insulting—the Naderi are a dark-skinned
 folk with pointy ears that somewhat resemble the [Eriothi](/races/eriothi). Naderi are generally arrogant creatures, and

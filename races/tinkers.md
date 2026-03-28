@@ -6,7 +6,7 @@ indexed: true
 categories: [Races]
 ---
 
-{% include raceBlock.html name="Tinkers" origin="Danaros" home="Sunwake" nation="Coalition of Free Peoples" nationlink="/nations/coalition_of_free_peoples" %}
+{% include raceBlock.html name="Tinkers" img="tinker.png" origin="Danaros" home="Sunwake" nation="Coalition of Free Peoples" nationlink="/nations/coalition_of_free_peoples" %}
 
 Tinkers are a short folk, taller than [Companions](/races/companions) but shorter than [Stoneborn](/races/stoneborn), though
 no one would mistake them for such. They have a passing resemblance to the [Kalai](/races/kalai), but other than physical
