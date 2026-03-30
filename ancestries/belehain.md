@@ -3,10 +3,10 @@ layout: page
 title: Belehain
 fifth-equiv: Tritons
 indexed: true
-categories: [Races]
+categories: [Ancestries]
 ---
 
-{% include raceBlock.html name="Belehain" img="belehain.png" origin="Eluneia" nation="The Third Wave" nationlink="/nations/third_wave" %}
+{% include ancestryBlock.html name="Belehain" img="belehain.png" origin="Eluneia" nation="The Third Wave" nationlink="/nations/third_wave" %}
 
 The Belehain are an aquatic race who make up the bulk of the population of the [Third Wave](/nations/third_wave). Originally
 evolving in an elemental water plain, the [Great Cataclysm](/history/great-cataclysm) caused a massive migration of the

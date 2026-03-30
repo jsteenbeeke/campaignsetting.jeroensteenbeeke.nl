@@ -3,14 +3,14 @@ layout: page
 title: M'to
 fifth-equiv: Humans of African descent
 indexed: true
-categories: [Races]
+categories: [Ancestries]
 ---
 
-{% include raceBlock.html name="M'to" img="mto.png" origin="Eluneia" home="Nyumbani" nation="Northborn Alliance" nationlink="/nations/northborn_alliance" %}
+{% include ancestryBlock.html name="M'to" img="mto.png" origin="Eluneia" home="Nyumbani" nation="Northborn Alliance" nationlink="/nations/northborn_alliance" %}
 
 In comparison to other humans, the M'to stand out. They are dark-skinned, and live in tribal societies that are considered
 primitive by most other civilizations. Despite this reputation, however, the M'to are skilled craftsmen, and expert builders
-when it comes to anything made of wood. A common saying among their allies, the [Dvergi](/races/dvergi), is that if you
+when it comes to anything made of wood. A common saying among their allies, the [Dvergi](/ancestries/dvergi), is that if you
 give an M'to three nails and a single tree, he'll build a cathedral.
 
 The M'to people are not united in the same sense that other races are, instead forming a loose collection of tribes that 

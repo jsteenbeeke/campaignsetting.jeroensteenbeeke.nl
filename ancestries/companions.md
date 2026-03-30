@@ -3,10 +3,10 @@ layout: page
 title: Companions
 fifth-equiv: Halflings
 indexed: true
-categories: [Races]
+categories: [Ancestries]
 ---
 
-{% include raceBlock.html name="Companions" img="companion.png" origin="Danaros" home="Sunwake" nation="Coalition of Free Peoples" nationlink="/nations/coalition_of_free_peoples" %}
+{% include ancestryBlock.html name="Companions" img="companion.png" origin="Danaros" home="Sunwake" nation="Coalition of Free Peoples" nationlink="/nations/coalition_of_free_peoples" %}
 
 Nobody quite knows when the Companions first started living amont the other races, but with the loss of many historical
 sources due to [the Unbinding](/history/the-unbinding) it is unlikely the truth will ever be found out. What is known,

@@ -3,10 +3,10 @@ layout: page
 title: Dvergi
 fifth-equiv: Duergar
 indexed: true
-categories: [ Races ]
+categories: [ Ancestries ]
 ---
 
-{% include raceBlock.html 
+{% include ancestryBlock.html 
   name="Dvergi" 
   img="dvergi.png"
   origin="Eluneia" 

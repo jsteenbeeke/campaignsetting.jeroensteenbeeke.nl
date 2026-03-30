@@ -5,7 +5,7 @@ indexed: true
 categories: [ Pantheons ]
 ---
 
-The Fian Chai is a pantheon of Gods worshipped by the [Sethai](/races/sethai) and the [Fian Ea](/races/fian_ea). It is a
+The Fian Chai is a pantheon of Gods worshipped by the [Sethai](/ancestries/sethai) and the [Fian Ea](/ancestries/fian_ea). It is a
 pantheon that used to be larger, but many of its lesser gods perished in
 the [Great Cataclysm](/history/great-cataclysm).
 

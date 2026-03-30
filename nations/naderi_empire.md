@@ -5,9 +5,9 @@ indexed: true
 categories: [Nations]
 ---
 
-The Naderi Empire is the state of the [Naderi](/races/naderi) people. Once a vast continent-spanning empire that few dared challenge, it has since been reduced to one of the smaller nations, partially due to the [Chadori](/races/chadori) revolt, but mostly due to an ill-planned and hastily executed evacuation from their ancestral lands in [Danaros](/locations/danaros).
+The Naderi Empire is the state of the [Naderi](/ancestries/naderi) people. Once a vast continent-spanning empire that few dared challenge, it has since been reduced to one of the smaller nations, partially due to the [Chadori](/ancestries/chadori) revolt, but mostly due to an ill-planned and hastily executed evacuation from their ancestral lands in [Danaros](/locations/danaros).
 
-Historically, the Naderi kept many slaves, among them Chadori, [Delvers](/races/delvers) and [Eriothi](/races/eriothi), though the practice of slave labor has been outlawed after [the Unbinding](/history/the-unbinding).
+Historically, the Naderi kept many slaves, among them Chadori, [Delvers](/ancestries/delvers) and [Eriothi](/ancestries/eriothi), though the practice of slave labor has been outlawed after [the Unbinding](/history/the-unbinding).
 
 ## Geography
 
@@ -47,4 +47,4 @@ Naderi can be distrustful or disdainful to members of other races, owing to thei
 
 Naderi have many superstitions and peculiar customs. They will refuse to use salt during daylight, they will never sit in a chair with their back facing a door, and they consider it bad luck to completely empty a plate of food.
 
-In addition to the Naderi themselves, the empire has a small population of [Delvers](/races/delvers), with their own customs and traditions. Delvers are full citizens, but never hold any positions of power.
+In addition to the Naderi themselves, the empire has a small population of [Delvers](/ancestries/delvers), with their own customs and traditions. Delvers are full citizens, but never hold any positions of power.

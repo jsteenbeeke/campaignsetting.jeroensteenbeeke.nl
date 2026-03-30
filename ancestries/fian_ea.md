@@ -3,12 +3,12 @@ layout: page
 title: Fian Ea
 fifth-equiv: Sea Elves
 indexed: true
-categories: [Races]
+categories: [Ancestries]
 ---
 
-{% include raceBlock.html name="Fian Ea" img="fian_ea.png" origin="Eluneia" home="Talias" nation="Sethai Federation" nationlink="/nations/sethai_federation" %}
+{% include ancestryBlock.html name="Fian Ea" img="fian_ea.png" origin="Eluneia" home="Talias" nation="Sethai Federation" nationlink="/nations/sethai_federation" %}
 
-To the untrained eye, the Fian Ea look just like [Sethai](/races/sethai): tall, hairless, spots marking what would in other
+To the untrained eye, the Fian Ea look just like [Sethai](/ancestries/sethai): tall, hairless, spots marking what would in other
  species be their hairlines. Upon closer examination, however, even a casual observer would notice the slightly bluish 
  hue of their skins, and after a while it becomes hard to ignore the gills and webbed fingers.
  

@@ -5,7 +5,7 @@ indexed: true
 categories: [Nations]
 ---
 
-The [Lakhta](/races/lakhta) hegemony is the government of the Lakhta people and their [Delver](/races/delvers) slaves. It
+The [Lakhta](/ancestries/lakhta) hegemony is the government of the Lakhta people and their [Delver](/ancestries/delvers) slaves. It
 is an aristocratic nation, with a small group of families electing a leader called the Hegemon.
 
 Originally from [Danaros](/locations/danaros), the Lakhta's ancestral lands were far removed from Khar'muduk, and as such

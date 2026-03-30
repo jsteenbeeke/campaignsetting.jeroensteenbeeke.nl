@@ -3,13 +3,13 @@ layout: page
 title: Adar
 fifth-equiv: Hill Dwarves
 indexed: true
-categories: [Races]
+categories: [Ancestries]
 ---
 
-{% include raceBlock.html name="Adar" img="adar.png" origin="Eluneia" home="Darkama" nation="Adar Kingdom" nationlink="/nations/adar_kingdom" %}
+{% include ancestryBlock.html name="Adar" img="adar.png" origin="Eluneia" home="Darkama" nation="Adar Kingdom" nationlink="/nations/adar_kingdom" %}
 
 The Adar, or "people of the hills", as they call themselves, are an ancient people, and the second most populous of the races
-that survived the [Great Cataclysm](/history/great-cataclysm). People from Danaros often mistake them for [Stoneborn](/races/stoneborn)—
+that survived the [Great Cataclysm](/history/great-cataclysm). People from Danaros often mistake them for [Stoneborn](/ancestries/stoneborn)—
 a comparison neither the Adar nor the Stoneborn appreciate—even though the two species are not biologically compatible.
 
 Male Adar are known for their beards, and even children as young as four already have facial hair. Female Adar do not have

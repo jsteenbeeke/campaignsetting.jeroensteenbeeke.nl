@@ -11,7 +11,7 @@ below to see what is possible.
 
 ## Barbarian
 
-Barbarians can mostly be found among the member races of the [Northborn Alliance](/nations/northborn_alliance), among the [M'to](/races/mto) and the [Warbloods](/races/warbloods), though some [Dvergi](/races/dvergi) Barbarians are known to exist as well. In some rare cases, [Chadori](/races/chadori), [Stoneborn](/races/stoneborn) and [Turian](/races/turians) Berserkers have been encountered.
+Barbarians can mostly be found among the member races of the [Northborn Alliance](/nations/northborn_alliance), among the [M'to](/ancestries/mto) and the [Warbloods](/ancestries/warbloods), though some [Dvergi](/ancestries/dvergi) Barbarians are known to exist as well. In some rare cases, [Chadori](/ancestries/chadori), [Stoneborn](/ancestries/stoneborn) and [Turian](/ancestries/turians) Berserkers have been encountered.
 
 ## Bard
 

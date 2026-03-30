@@ -3,13 +3,13 @@ layout: page
 title: Eriothi
 fifth-equiv: Wood Elves
 indexed: true
-categories: [Races]
+categories: [Ancestries]
 ---
 
-{% include raceBlock.html name="Eriothi" img="eriothi.png" origin="Danaros" home="Sunwake" nation="Coalition of Free Peoples" nationlink="/nations/coalition_of_free_peoples" %}
+{% include ancestryBlock.html name="Eriothi" img="eriothi.png" origin="Danaros" home="Sunwake" nation="Coalition of Free Peoples" nationlink="/nations/coalition_of_free_peoples" %}
 
 The Eriothi are a people that were for a long time considered to be myth, as they made their home deep inside the woods of Danaros, and rarely ventured outside. They had
-some contact with both the [Companions](/races/companions) and the [Tinkers](/races/tinkers), but tales of their existence from either were at first dismissed as simple stories.
+some contact with both the [Companions](/ancestries/companions) and the [Tinkers](/ancestries/tinkers), but tales of their existence from either were at first dismissed as simple stories.
 
 It wasn't until Turian attempts to create a road through one of their forests that they emerged in force, almost resulting in war. Many of the Eriothi perished
 due to [the Unbinding](/history/the-unbinding), as they refused to leave their ancient homes.

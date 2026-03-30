@@ -3,10 +3,10 @@ layout: page
 title: Sethai
 fifth-equiv: High Elves
 indexed: true
-categories: [Races]
+categories: [Ancestries]
 ---
 
-{% include raceBlock.html name="Sethai" img="sethai.png" origin="Eluneia" home="Talias" nation="Sethai Federation" nationlink="/nations/sethai_federation" %}
+{% include ancestryBlock.html name="Sethai" img="sethai.png" origin="Eluneia" home="Talias" nation="Sethai Federation" nationlink="/nations/sethai_federation" %}
 
 The Sethai are an ancient people native to Eluneia, whose [nation](/nations/sethai_federation) predates the [Great Cataclysm](/history/great-cataclysm)
 by a significant margin. Despite their age, their population levels have only restored to pre-cataclysm levels in recent years.
@@ -15,7 +15,7 @@ The Sethai are masters of magic, and the creation of magical artifacts. Their so
 ruled by an invisible ruling class. It is also highly isolationist, and few outsiders are welcome. This however, does not
 stop curious Sethai from becoming adventurers.
 
-Physically, the Sethai resemble [Eriothi](/races/eriothi), though they have skin that is even paler than the [Lakhta](/races/lakhta), are completely hairless,
+Physically, the Sethai resemble [Eriothi](/ancestries/eriothi), though they have skin that is even paler than the [Lakhta](/ancestries/lakhta), are completely hairless,
 and have black spots that originate from their necks, follow their jaw to their temples, and form a crown around the cranium. 
 
 ## Religion

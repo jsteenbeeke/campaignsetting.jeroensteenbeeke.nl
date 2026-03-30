@@ -6,8 +6,8 @@ categories: [Organizations]
 ---
 
 Though many believe their existence to be a myth, the mysterious group known as the Seekers can be found in many places
-throughout [Eluneia](/locations/eluneia). Historically their members were exclusively [Sethai](/races/sethai), though
-in recent years a number of [Turians](/races/turians), [Eriothi](/races/eriothi) and [Chadori](/races/chadori) have joined
+throughout [Eluneia](/locations/eluneia). Historically their members were exclusively [Sethai](/ancestries/sethai), though
+in recent years a number of [Turians](/ancestries/turians), [Eriothi](/ancestries/eriothi) and [Chadori](/ancestries/chadori) have joined
 their number.
 
 The Seekers generally do not linger in one place, and are generally vague about their intentions, though their goals are

@@ -5,7 +5,7 @@ indexed: true
 categories: [History]
 ---
 
-Fifty-five years ago, a strange phenomenon was sighted in the [Stoneborn](/races/stoneborn) settlement of Khar'muduk in
+Fifty-five years ago, a strange phenomenon was sighted in the [Stoneborn](/ancestries/stoneborn) settlement of Khar'muduk in
 the northernmost reaches of [Danaros](/locations/danaros)' largest continent. Within a single house every living thing, 
 from people to plants to the organic matter composing their clothes, all had dissolved into nothing,
 and everything still standing had turned the same shade of dark grey. Curious to find a cause, several

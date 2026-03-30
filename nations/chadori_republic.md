@@ -5,7 +5,7 @@ indexed: true
 categories: [Nations]
 ---
 
-The [Chadori](/races/chadori) Republic is one of the largest nations in [Eluneia](/locations/eluneia), though its people originally hail from
+The [Chadori](/ancestries/chadori) Republic is one of the largest nations in [Eluneia](/locations/eluneia), though its people originally hail from
 Danaros, and one of the few nations that bears any resemblance to a modern-day democracy.
 
 The Chadori Republic was formed by escaped slaves from the [Naderi Empire](/nations/naderi_empire) before [the Unbinding](/history/the-unbinding),

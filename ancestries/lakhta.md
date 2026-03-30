@@ -3,10 +3,10 @@ layout: page
 title: Lakhta
 fifth-equiv: Humans of Slavic descent
 indexed: true
-categories: [Races]
+categories: [Ancestries]
 ---
 
-{% include raceBlock.html name="Lakhta" img="lakhta.png" origin="Danaros" home="Velikaya" nation="Lakhta Hegemony" nationlink="/nations/laktha_hegemony" %}
+{% include ancestryBlock.html name="Lakhta" img="lakhta.png" origin="Danaros" home="Velikaya" nation="Lakhta Hegemony" nationlink="/nations/laktha_hegemony" %}
 
 Laktha are pale-skinned humans originally from [Danaros](/locations/danaros), where they had a sizable kingdom with a
 large land-based army, but not much of a navy. Their ancestral lands were far removed from the origins of [the Unbinding](/history/the-unbinding),
@@ -16,8 +16,8 @@ The Laktha people can best be described a nihilistic. It is a common belief amon
  purpose or meaning, and that if an afterlife exists, it will be as meaningless as this life. Lakhta have a tendency to
   shrug off any hardship or misfortune, a trait readily used by their government to stay in power.
 
-Lakhta are highly xenofobic, and view other races, even other humans such as the [Turians](/races/turians) and the [M'to](/races/mto) as inferior. The Lakhta
-readily make use of slave labor, though only the [Delvers](/races/delvers) are enslaved by them in great number.
+Lakhta are highly xenofobic, and view other races, even other humans such as the [Turians](/ancestries/turians) and the [M'to](/ancestries/mto) as inferior. The Lakhta
+readily make use of slave labor, though only the [Delvers](/ancestries/delvers) are enslaved by them in great number.
 
 ## Religion
 

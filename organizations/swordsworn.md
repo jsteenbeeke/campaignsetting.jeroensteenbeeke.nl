@@ -6,7 +6,7 @@ categories: [Organizations]
 ---
 
 To the Swordsworn, nothing matters more than fighting, and to defeat ever greater foes. The Swordsworn are a society
-that has their origins among the [M'to](/races/mto) and [Warbloods](/races/warbloods), though members of any race are
+that has their origins among the [M'to](/ancestries/mto) and [Warbloods](/ancestries/warbloods), though members of any race are
 welcome provided they follow their beliefs.
 
 The Swordsworn constantly seek to improve themselves and others in the art of combat, and as such, often travel the world

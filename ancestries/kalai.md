@@ -3,13 +3,13 @@ layout: page
 title: Kalai
 fifth-equiv: Forest Gnomes
 indexed: true
-categories: [Races]
+categories: [Ancestries]
 ---
 
-{% include raceBlock.html name="Kalai" img="kalai.png" origin="Eluneia" home="Tranquility" nation="Northborn Alliance" nationlink="/nations/northborn_alliance" %}
+{% include ancestryBlock.html name="Kalai" img="kalai.png" origin="Eluneia" home="Tranquility" nation="Northborn Alliance" nationlink="/nations/northborn_alliance" %}
 
 Kalai are a short, kindly looking, and seemingly shy folk. They do not often venture beyond their lands, and tend to stay
-in their forest homes. They resemble [Tinkers](/races/tinkers) to some degree, but they have vastly different customs,
+in their forest homes. They resemble [Tinkers](/ancestries/tinkers) to some degree, but they have vastly different customs,
 and don't often mix. Whether or not they have any common ancestry is unknown, but doubtful, considering Kalai are native
 to Eluneia.
 

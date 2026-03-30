@@ -8,10 +8,10 @@ categories: [Nations]
 ![Symbol of the Coalition of Free Peoples](/img/symbol-coalition-free-peoples-rob-ambrosius.jpg)
 
 The Coalition of Free Peoples is a republic-like nation that was built by a diverse group of survivors
-from [Danaros](/locations/danaros), including the [Companions](/races/companions), [Eriothi](/races/eriothi), 
-[Erihain](/races/erihain), [Mordhain](/races/mordhain), [Stoneborn](/races/stoneborn), [Tinkers](/races/tinkers), [Turians](/races/turians).
+from [Danaros](/locations/danaros), including the [Companions](/ancestries/companions), [Eriothi](/ancestries/eriothi), 
+[Erihain](/ancestries/erihain), [Mordhain](/ancestries/mordhain), [Stoneborn](/ancestries/stoneborn), [Tinkers](/ancestries/tinkers), [Turians](/ancestries/turians).
 
-The Coalition was formed to replace the defunct [Turian](/races/turians) elective monarchy, which saw the demise of most
+The Coalition was formed to replace the defunct [Turian](/ancestries/turians) elective monarchy, which saw the demise of most
 of its electors in [the Unbinding](/history/the-unbinding), and whose leaders saw that drastic reforms were needed to
 address the needs of the diverse group of people now populating their new lands.
 
